@@ -1,0 +1,721 @@
+Date,Month,Quarter,Year,Region,State/City,Sales Executive Name,Product Category,Product Name,Units Sold,Selling Price,Revenue,Cost,Profit,Profit Margin %,Customer Type (New/Existing),Sales Channel (Online/Offline),Target Sales,Actual Sales,Achievement %,Growth %
+2025-01-01,January,Q1,2025,East,Bhubaneswar,Arjun Das,Electronics,Webcam HD,13,1899.96,24699.48,14887.36,9812.12,39.73,New,Offline,22986.02,24699.48,107.45,
+2025-01-01,January,Q1,2025,East,Bhubaneswar,Arjun Das,Furniture,Ergonomic Office Chair,5,9171.05,45855.25,28667.96,17187.29,37.48,Existing,Online,46828.43,45855.25,97.92,
+2025-01-01,January,Q1,2025,East,Bhubaneswar,Arjun Das,Home & Living,Water Bottle Set,15,908.64,13629.6,6398.9,7230.7,53.05,Existing,Offline,13016.65,13629.6,104.71,
+2025-01-01,January,Q1,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Notebook Pack,53,404.2,21422.6,11642.05,9780.55,45.66,Existing,Online,20644.4,21422.6,103.77,
+2025-01-01,January,Q1,2025,East,Kolkata,Sana Khan,Electronics,Wireless Headphones,13,2462.2,32008.6,20074.88,11933.72,37.28,Existing,Online,29589.33,32008.6,108.18,
+2025-01-01,January,Q1,2025,East,Kolkata,Sana Khan,Furniture,Bookshelf,5,4511.6,22558.0,14881.46,7676.54,34.03,New,Offline,23864.45,22558.0,94.53,
+2025-01-01,January,Q1,2025,East,Kolkata,Sana Khan,Home & Living,LED Desk Lamp,12,1499.09,17989.08,9924.1,8064.98,44.83,New,Online,16877.5,17989.08,106.59,
+2025-01-01,January,Q1,2025,East,Kolkata,Sana Khan,Office Supplies,Ink Cartridge,46,1813.3,83411.8,55425.6,27986.2,33.55,New,Offline,73586.52,83411.8,113.35,
+2025-01-01,January,Q1,2025,North,Delhi,Aarav Sharma,Electronics,Wireless Headphones,17,2486.78,42275.26,26450.48,15824.78,37.43,New,Offline,38961.14,42275.26,108.51,
+2025-01-01,January,Q1,2025,North,Delhi,Aarav Sharma,Furniture,Meeting Table,8,13296.48,106371.84,67618.5,38753.34,36.43,Existing,Offline,100532.04,106371.84,105.81,
+2025-01-01,January,Q1,2025,North,Delhi,Aarav Sharma,Home & Living,Air Purifier,28,8164.16,228596.48,148587.72,80008.76,35.0,Existing,Offline,239426.48,228596.48,95.48,
+2025-01-01,January,Q1,2025,North,Delhi,Aarav Sharma,Office Supplies,Printer Paper Box,73,1293.12,94397.76,58689.83,35707.93,37.83,New,Offline,89452.57,94397.76,105.53,
+2025-01-01,January,Q1,2025,North,Jaipur,Kabir Singh,Electronics,Bluetooth Speaker,11,3356.24,36918.64,22559.98,14358.66,38.89,New,Offline,36379.19,36918.64,101.48,
+2025-01-01,January,Q1,2025,North,Jaipur,Kabir Singh,Furniture,Meeting Table,7,12689.48,88826.36,60140.95,28685.41,32.29,New,Offline,81908.42,88826.36,108.45,
+2025-01-01,January,Q1,2025,North,Jaipur,Kabir Singh,Home & Living,Storage Rack,16,2696.36,43141.76,26517.72,16624.04,38.53,New,Online,41277.73,43141.76,104.52,
+2025-01-01,January,Q1,2025,North,Jaipur,Kabir Singh,Office Supplies,Printer Paper Box,61,1291.94,78808.34,50843.22,27965.12,35.48,Existing,Online,78366.69,78808.34,100.56,
+2025-01-01,January,Q1,2025,South,Hyderabad,Ananya Reddy,Electronics,Wireless Headphones,14,2555.76,35780.64,21415.55,14365.09,40.15,Existing,Online,39094.96,35780.64,91.52,
+2025-01-01,January,Q1,2025,South,Hyderabad,Ananya Reddy,Furniture,Bookshelf,8,4448.17,35585.36,23370.28,12215.08,34.33,New,Online,37655.2,35585.36,94.5,
+2025-01-01,January,Q1,2025,South,Hyderabad,Ananya Reddy,Home & Living,Storage Rack,26,2713.46,70549.96,44897.89,25652.07,36.36,Existing,Online,62273.19,70549.96,113.29,
+2025-01-01,January,Q1,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Printer Paper Box,60,1293.4,77604.0,48919.16,28684.84,36.96,Existing,Online,83430.85,77604.0,93.02,
+2025-01-01,January,Q1,2025,South,Chennai,Diya Iyer,Electronics,Bluetooth Speaker,15,3178.6,47679.0,29947.0,17732.0,37.19,Existing,Offline,48408.03,47679.0,98.49,
+2025-01-01,January,Q1,2025,South,Chennai,Diya Iyer,Furniture,Study Desk,6,6926.47,41558.82,27061.02,14497.8,34.89,New,Online,43191.94,41558.82,96.22,
+2025-01-01,January,Q1,2025,South,Chennai,Diya Iyer,Home & Living,Storage Rack,23,2773.8,63797.4,37416.78,26380.62,41.35,New,Online,69976.82,63797.4,91.17,
+2025-01-01,January,Q1,2025,South,Chennai,Diya Iyer,Office Supplies,Ink Cartridge,74,1789.95,132456.3,88839.34,43616.96,32.93,New,Offline,120954.08,132456.3,109.51,
+2025-01-01,January,Q1,2025,South,Kochi,Meera Nair,Electronics,Webcam HD,12,1963.58,23562.96,13605.25,9957.71,42.26,Existing,Online,20843.53,23562.96,113.05,
+2025-01-01,January,Q1,2025,South,Kochi,Meera Nair,Furniture,Ergonomic Office Chair,5,8986.26,44931.3,30398.16,14533.14,32.35,Existing,Online,39914.09,44931.3,112.57,
+2025-01-01,January,Q1,2025,South,Kochi,Meera Nair,Home & Living,Storage Rack,15,2872.06,43080.9,25756.2,17324.7,40.21,Existing,Online,40466.17,43080.9,106.46,
+2025-01-01,January,Q1,2025,South,Kochi,Meera Nair,Office Supplies,Notebook Pack,58,398.15,23092.7,11985.46,11107.24,48.1,Existing,Online,25238.73,23092.7,91.5,
+2025-01-01,January,Q1,2025,West,Ahmedabad,Ishaan Patel,Electronics,Wireless Headphones,16,2530.87,40493.92,24610.31,15883.61,39.22,New,Offline,42051.98,40493.92,96.29,
+2025-01-01,January,Q1,2025,West,Ahmedabad,Ishaan Patel,Furniture,Study Desk,7,6739.99,47179.93,31813.01,15366.92,32.57,Existing,Offline,47998.69,47179.93,98.29,
+2025-01-01,January,Q1,2025,West,Ahmedabad,Ishaan Patel,Home & Living,Air Purifier,25,7957.47,198936.75,140345.72,58591.03,29.45,Existing,Offline,178339.8,198936.75,111.55,
+2025-01-01,January,Q1,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Notebook Pack,56,392.33,21970.48,11834.74,10135.74,46.13,Existing,Online,23872.41,21970.48,92.03,
+2025-01-01,January,Q1,2025,West,Pune,Priya Menon,Electronics,Wireless Headphones,16,2559.85,40957.6,24049.54,16908.06,41.28,New,Online,37208.18,40957.6,110.08,
+2025-01-01,January,Q1,2025,West,Pune,Priya Menon,Furniture,Meeting Table,8,13307.67,106461.36,68273.26,38188.1,35.87,Existing,Offline,101516.04,106461.36,104.87,
+2025-01-01,January,Q1,2025,West,Pune,Priya Menon,Home & Living,Water Bottle Set,24,880.06,21121.44,10846.61,10274.83,48.65,New,Online,20178.7,21121.44,104.67,
+2025-01-01,January,Q1,2025,West,Pune,Priya Menon,Office Supplies,Printer Paper Box,73,1285.93,93872.89,59760.0,34112.89,36.34,Existing,Online,97076.1,93872.89,96.7,
+2025-01-01,January,Q1,2025,West,Mumbai,Rohan Mehta,Electronics,Webcam HD,15,1924.04,28860.6,17194.21,11666.39,40.42,Existing,Online,30632.59,28860.6,94.22,
+2025-01-01,January,Q1,2025,West,Mumbai,Rohan Mehta,Furniture,Meeting Table,7,12598.14,88186.98,62127.52,26059.46,29.55,Existing,Offline,83511.57,88186.98,105.6,
+2025-01-01,January,Q1,2025,West,Mumbai,Rohan Mehta,Home & Living,Storage Rack,14,2878.13,40293.82,22662.36,17631.46,43.76,New,Online,37932.85,40293.82,106.22,
+2025-01-01,January,Q1,2025,West,Mumbai,Rohan Mehta,Office Supplies,Ink Cartridge,44,1807.52,79530.88,50394.63,29136.25,36.64,Existing,Online,79217.05,79530.88,100.4,
+2025-02-01,February,Q1,2025,East,Bhubaneswar,Arjun Das,Electronics,Wireless Headphones,13,2500.67,32508.71,19429.08,13079.63,40.23,New,Online,33377.96,32508.71,97.4,31.62
+2025-02-01,February,Q1,2025,East,Bhubaneswar,Arjun Das,Furniture,Ergonomic Office Chair,8,8858.4,70867.2,47129.73,23737.47,33.5,Existing,Online,70583.45,70867.2,100.4,54.55
+2025-02-01,February,Q1,2025,East,Bhubaneswar,Arjun Das,Home & Living,LED Desk Lamp,22,1507.69,33169.18,18904.19,14264.99,43.01,Existing,Offline,33752.1,33169.18,98.27,143.36
+2025-02-01,February,Q1,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Desk Organizer,46,703.94,32381.24,16370.12,16011.12,49.45,Existing,Online,33664.31,32381.24,96.19,51.15
+2025-02-01,February,Q1,2025,East,Kolkata,Sana Khan,Electronics,Webcam HD,14,1852.37,25933.18,15434.89,10498.29,40.48,Existing,Offline,28110.78,25933.18,92.25,-18.98
+2025-02-01,February,Q1,2025,East,Kolkata,Sana Khan,Furniture,Bookshelf,8,4641.79,37134.32,21974.9,15159.42,40.82,Existing,Online,39882.38,37134.32,93.11,64.62
+2025-02-01,February,Q1,2025,East,Kolkata,Sana Khan,Home & Living,LED Desk Lamp,19,1552.49,29497.31,15942.0,13555.31,45.95,Existing,Offline,26188.71,29497.31,112.63,63.97
+2025-02-01,February,Q1,2025,East,Kolkata,Sana Khan,Office Supplies,Desk Organizer,70,725.84,50808.8,25232.02,25576.78,50.34,Existing,Offline,53858.26,50808.8,94.34,-39.09
+2025-02-01,February,Q1,2025,North,Delhi,Aarav Sharma,Electronics,Bluetooth Speaker,12,3384.69,40616.28,24303.08,16313.2,40.16,Existing,Online,41636.98,40616.28,97.55,-3.92
+2025-02-01,February,Q1,2025,North,Delhi,Aarav Sharma,Furniture,Ergonomic Office Chair,6,8749.63,52497.78,34351.95,18145.83,34.56,New,Online,56921.87,52497.78,92.23,-50.65
+2025-02-01,February,Q1,2025,North,Delhi,Aarav Sharma,Home & Living,Storage Rack,19,2696.77,51238.63,30608.1,20630.53,40.26,New,Offline,50946.18,51238.63,100.57,-77.59
+2025-02-01,February,Q1,2025,North,Delhi,Aarav Sharma,Office Supplies,Printer Paper Box,67,1317.78,88291.26,54688.75,33602.51,38.06,Existing,Offline,79846.66,88291.26,110.58,-6.47
+2025-02-01,February,Q1,2025,North,Jaipur,Kabir Singh,Electronics,Bluetooth Speaker,14,3277.52,45885.28,29552.07,16333.21,35.6,Existing,Offline,42275.68,45885.28,108.54,24.29
+2025-02-01,February,Q1,2025,North,Jaipur,Kabir Singh,Furniture,Bookshelf,6,4514.58,27087.48,16976.49,10110.99,37.33,New,Online,24071.14,27087.48,112.53,-69.51
+2025-02-01,February,Q1,2025,North,Jaipur,Kabir Singh,Home & Living,Water Bottle Set,21,890.11,18692.31,9690.88,9001.43,48.16,Existing,Online,16906.59,18692.31,110.56,-56.67
+2025-02-01,February,Q1,2025,North,Jaipur,Kabir Singh,Office Supplies,Ink Cartridge,64,1782.21,114061.44,76145.87,37915.57,33.24,Existing,Offline,111796.99,114061.44,102.03,44.73
+2025-02-01,February,Q1,2025,South,Hyderabad,Ananya Reddy,Electronics,Smart Watch,19,5173.34,98293.46,59119.9,39173.56,39.85,Existing,Offline,90177.19,98293.46,109.0,174.71
+2025-02-01,February,Q1,2025,South,Hyderabad,Ananya Reddy,Furniture,Ergonomic Office Chair,7,9211.46,64480.22,43164.38,21315.84,33.06,Existing,Online,61309.41,64480.22,105.17,81.2
+2025-02-01,February,Q1,2025,South,Hyderabad,Ananya Reddy,Home & Living,LED Desk Lamp,28,1498.06,41945.68,24132.33,17813.35,42.47,New,Online,45094.49,41945.68,93.02,-40.54
+2025-02-01,February,Q1,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Notebook Pack,71,401.07,28475.97,15081.74,13394.23,47.04,Existing,Offline,26033.36,28475.97,109.38,-63.31
+2025-02-01,February,Q1,2025,South,Chennai,Diya Iyer,Electronics,Bluetooth Speaker,11,3265.64,35922.04,22710.96,13211.08,36.78,Existing,Online,31995.73,35922.04,112.27,-24.66
+2025-02-01,February,Q1,2025,South,Chennai,Diya Iyer,Furniture,Ergonomic Office Chair,10,8710.39,87103.9,61119.38,25984.52,29.83,Existing,Offline,79964.67,87103.9,108.93,109.59
+2025-02-01,February,Q1,2025,South,Chennai,Diya Iyer,Home & Living,Storage Rack,19,2773.27,52692.13,31900.53,20791.6,39.46,New,Online,52383.87,52692.13,100.59,-17.41
+2025-02-01,February,Q1,2025,South,Chennai,Diya Iyer,Office Supplies,Ink Cartridge,72,1839.15,132418.8,81190.6,51228.2,38.69,Existing,Offline,130276.55,132418.8,101.64,-0.03
+2025-02-01,February,Q1,2025,South,Kochi,Meera Nair,Electronics,Webcam HD,16,1841.56,29464.96,18151.94,11313.02,38.39,New,Online,26790.18,29464.96,109.98,25.05
+2025-02-01,February,Q1,2025,South,Kochi,Meera Nair,Furniture,Bookshelf,7,4523.71,31665.97,19975.32,11690.65,36.92,New,Offline,29059.41,31665.97,108.97,-29.52
+2025-02-01,February,Q1,2025,South,Kochi,Meera Nair,Home & Living,LED Desk Lamp,16,1518.87,24301.92,13851.75,10450.17,43.0,Existing,Online,25173.15,24301.92,96.54,-43.59
+2025-02-01,February,Q1,2025,South,Kochi,Meera Nair,Office Supplies,Ink Cartridge,59,1870.53,110361.27,71117.92,39243.35,35.56,Existing,Online,96825.62,110361.27,113.98,377.91
+2025-02-01,February,Q1,2025,West,Ahmedabad,Ishaan Patel,Electronics,Bluetooth Speaker,18,3372.04,60696.72,36082.24,24614.48,40.55,Existing,Online,66608.28,60696.72,91.12,49.89
+2025-02-01,February,Q1,2025,West,Ahmedabad,Ishaan Patel,Furniture,Ergonomic Office Chair,9,8676.23,78086.07,53871.72,24214.35,31.01,New,Offline,84585.32,78086.07,92.32,65.51
+2025-02-01,February,Q1,2025,West,Ahmedabad,Ishaan Patel,Home & Living,Air Purifier,24,7758.98,186215.52,129094.36,57121.16,30.67,Existing,Offline,196907.81,186215.52,94.57,-6.39
+2025-02-01,February,Q1,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Ink Cartridge,77,1860.57,143263.89,91954.02,51309.87,35.81,Existing,Online,149793.4,143263.89,95.64,552.07
+2025-02-01,February,Q1,2025,West,Pune,Priya Menon,Electronics,Wireless Headphones,16,2508.82,40141.12,23971.86,16169.26,40.28,Existing,Online,37186.91,40141.12,107.94,-1.99
+2025-02-01,February,Q1,2025,West,Pune,Priya Menon,Furniture,Meeting Table,8,13400.83,107206.64,72585.5,34621.14,32.29,Existing,Offline,109135.76,107206.64,98.23,0.7
+2025-02-01,February,Q1,2025,West,Pune,Priya Menon,Home & Living,Air Purifier,19,7892.86,149964.34,99166.64,50797.7,33.87,Existing,Online,136300.25,149964.34,110.02,610.01
+2025-02-01,February,Q1,2025,West,Pune,Priya Menon,Office Supplies,Ink Cartridge,53,1798.16,95302.48,59661.86,35640.62,37.4,Existing,Online,97792.21,95302.48,97.45,1.52
+2025-02-01,February,Q1,2025,West,Mumbai,Rohan Mehta,Electronics,Smart Watch,12,4946.02,59352.24,38130.25,21221.99,35.76,Existing,Offline,60669.89,59352.24,97.83,105.65
+2025-02-01,February,Q1,2025,West,Mumbai,Rohan Mehta,Furniture,Ergonomic Office Chair,7,9322.14,65254.98,43054.07,22200.91,34.02,Existing,Online,59045.25,65254.98,110.52,-26.0
+2025-02-01,February,Q1,2025,West,Mumbai,Rohan Mehta,Home & Living,Storage Rack,16,2842.62,45481.92,27389.07,18092.85,39.78,Existing,Online,42233.54,45481.92,107.69,12.88
+2025-02-01,February,Q1,2025,West,Mumbai,Rohan Mehta,Office Supplies,Printer Paper Box,70,1330.63,93144.1,57856.04,35288.06,37.89,New,Offline,97374.73,93144.1,95.66,17.12
+2025-03-01,March,Q1,2025,East,Bhubaneswar,Arjun Das,Electronics,Webcam HD,10,1901.44,19014.4,11067.07,7947.33,41.8,New,Online,20580.1,19014.4,92.39,-41.51
+2025-03-01,March,Q1,2025,East,Bhubaneswar,Arjun Das,Furniture,Study Desk,7,7109.97,49769.79,30826.9,18942.89,38.06,Existing,Online,54669.13,49769.79,91.04,-29.77
+2025-03-01,March,Q1,2025,East,Bhubaneswar,Arjun Das,Home & Living,LED Desk Lamp,18,1532.65,27587.7,15846.34,11741.36,42.56,Existing,Online,27036.99,27587.7,102.04,-16.83
+2025-03-01,March,Q1,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Printer Paper Box,67,1336.7,89558.9,52748.5,36810.4,41.1,Existing,Online,88742.01,89558.9,100.92,176.58
+2025-03-01,March,Q1,2025,East,Kolkata,Sana Khan,Electronics,Wireless Headphones,14,2573.83,36033.62,20695.34,15338.28,42.57,Existing,Offline,35647.6,36033.62,101.08,38.95
+2025-03-01,March,Q1,2025,East,Kolkata,Sana Khan,Furniture,Ergonomic Office Chair,8,8981.91,71855.28,49537.49,22317.79,31.06,Existing,Offline,65853.06,71855.28,109.11,93.5
+2025-03-01,March,Q1,2025,East,Kolkata,Sana Khan,Home & Living,LED Desk Lamp,15,1443.34,21650.1,13341.34,8308.76,38.38,New,Online,23403.69,21650.1,92.51,-26.6
+2025-03-01,March,Q1,2025,East,Kolkata,Sana Khan,Office Supplies,Printer Paper Box,68,1305.46,88771.28,54040.95,34730.33,39.12,Existing,Online,87928.6,88771.28,100.96,74.72
+2025-03-01,March,Q1,2025,North,Delhi,Aarav Sharma,Electronics,Smart Watch,18,4947.91,89062.38,56092.33,32970.05,37.02,New,Online,78785.68,89062.38,113.04,119.28
+2025-03-01,March,Q1,2025,North,Delhi,Aarav Sharma,Furniture,Meeting Table,8,13514.24,108113.92,71652.47,36461.45,33.73,Existing,Offline,108200.09,108113.92,99.92,105.94
+2025-03-01,March,Q1,2025,North,Delhi,Aarav Sharma,Home & Living,Storage Rack,29,2908.53,84347.37,48330.28,36017.09,42.7,Existing,Online,83257.0,84347.37,101.31,64.62
+2025-03-01,March,Q1,2025,North,Delhi,Aarav Sharma,Office Supplies,Desk Organizer,80,671.64,53731.2,28189.88,25541.32,47.54,New,Online,48742.41,53731.2,110.24,-39.14
+2025-03-01,March,Q1,2025,North,Jaipur,Kabir Singh,Electronics,Bluetooth Speaker,10,3275.66,32756.6,21144.34,11612.26,35.45,Existing,Offline,29177.11,32756.6,112.27,-28.61
+2025-03-01,March,Q1,2025,North,Jaipur,Kabir Singh,Furniture,Meeting Table,7,13334.46,93341.22,58666.64,34674.58,37.15,New,Online,87617.99,93341.22,106.53,244.59
+2025-03-01,March,Q1,2025,North,Jaipur,Kabir Singh,Home & Living,Storage Rack,14,2826.3,39568.2,23960.04,15608.16,39.45,Existing,Offline,43158.58,39568.2,91.68,111.68
+2025-03-01,March,Q1,2025,North,Jaipur,Kabir Singh,Office Supplies,Desk Organizer,74,714.31,52858.94,27649.42,25209.52,47.69,Existing,Online,54836.16,52858.94,96.39,-53.66
+2025-03-01,March,Q1,2025,South,Hyderabad,Ananya Reddy,Electronics,Smart Watch,18,5047.13,90848.34,57771.39,33076.95,36.41,Existing,Offline,80287.44,90848.34,113.15,-7.57
+2025-03-01,March,Q1,2025,South,Hyderabad,Ananya Reddy,Furniture,Meeting Table,7,13292.26,93045.82,63214.94,29830.88,32.06,Existing,Online,89707.46,93045.82,103.72,44.3
+2025-03-01,March,Q1,2025,South,Hyderabad,Ananya Reddy,Home & Living,Storage Rack,27,2714.78,73299.06,42932.18,30366.88,41.43,Existing,Offline,72077.78,73299.06,101.69,74.75
+2025-03-01,March,Q1,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Desk Organizer,67,725.27,48593.09,25292.52,23300.57,47.95,Existing,Offline,49099.14,48593.09,98.97,70.65
+2025-03-01,March,Q1,2025,South,Chennai,Diya Iyer,Electronics,Webcam HD,15,1835.2,27528.0,17270.06,10257.94,37.26,Existing,Online,28927.72,27528.0,95.16,-23.37
+2025-03-01,March,Q1,2025,South,Chennai,Diya Iyer,Furniture,Study Desk,7,7226.95,50588.65,30366.58,20222.07,39.97,New,Online,48415.64,50588.65,104.49,-41.92
+2025-03-01,March,Q1,2025,South,Chennai,Diya Iyer,Home & Living,Water Bottle Set,21,917.91,19276.11,8918.72,10357.39,53.73,Existing,Online,17456.61,19276.11,110.42,-63.42
+2025-03-01,March,Q1,2025,South,Chennai,Diya Iyer,Office Supplies,Ink Cartridge,89,1739.15,154784.35,101374.46,53409.89,34.51,Existing,Offline,145453.95,154784.35,106.41,16.89
+2025-03-01,March,Q1,2025,South,Kochi,Meera Nair,Electronics,Webcam HD,13,1959.1,25468.3,14857.68,10610.62,41.66,Existing,Online,23021.79,25468.3,110.63,-13.56
+2025-03-01,March,Q1,2025,South,Kochi,Meera Nair,Furniture,Study Desk,8,6886.42,55091.36,36472.64,18618.72,33.8,New,Offline,57799.46,55091.36,95.31,73.98
+2025-03-01,March,Q1,2025,South,Kochi,Meera Nair,Home & Living,LED Desk Lamp,28,1455.45,40752.6,24079.38,16673.22,40.91,Existing,Offline,40742.62,40752.6,100.02,67.69
+2025-03-01,March,Q1,2025,South,Kochi,Meera Nair,Office Supplies,Ink Cartridge,84,1776.25,149205.0,99835.81,49369.19,33.09,Existing,Online,148636.22,149205.0,100.38,35.2
+2025-03-01,March,Q1,2025,West,Ahmedabad,Ishaan Patel,Electronics,Bluetooth Speaker,14,3298.19,46174.66,27899.07,18275.59,39.58,New,Online,50515.79,46174.66,91.41,-23.93
+2025-03-01,March,Q1,2025,West,Ahmedabad,Ishaan Patel,Furniture,Meeting Table,7,12950.41,90652.87,61941.92,28710.95,31.67,Existing,Offline,83709.08,90652.87,108.3,16.09
+2025-03-01,March,Q1,2025,West,Ahmedabad,Ishaan Patel,Home & Living,Storage Rack,24,2853.26,68478.24,40121.41,28356.83,41.41,New,Online,69579.46,68478.24,98.42,-63.23
+2025-03-01,March,Q1,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Ink Cartridge,61,1767.99,107847.39,73642.03,34205.36,31.72,Existing,Offline,104524.08,107847.39,103.18,-24.72
+2025-03-01,March,Q1,2025,West,Pune,Priya Menon,Electronics,Webcam HD,20,1857.72,37154.4,22170.76,14983.64,40.33,New,Online,34605.42,37154.4,107.37,-7.44
+2025-03-01,March,Q1,2025,West,Pune,Priya Menon,Furniture,Bookshelf,7,4470.4,31292.8,19237.06,12055.74,38.53,Existing,Online,32825.28,31292.8,95.33,-70.81
+2025-03-01,March,Q1,2025,West,Pune,Priya Menon,Home & Living,LED Desk Lamp,24,1439.61,34550.64,21150.79,13399.85,38.78,New,Offline,31217.74,34550.64,110.68,-76.96
+2025-03-01,March,Q1,2025,West,Pune,Priya Menon,Office Supplies,Desk Organizer,63,677.23,42665.49,23038.65,19626.84,46.0,Existing,Offline,38598.37,42665.49,110.54,-55.23
+2025-03-01,March,Q1,2025,West,Mumbai,Rohan Mehta,Electronics,Bluetooth Speaker,14,3369.9,47178.6,29752.76,17425.84,36.94,Existing,Offline,42673.82,47178.6,110.56,-20.51
+2025-03-01,March,Q1,2025,West,Mumbai,Rohan Mehta,Furniture,Study Desk,8,6909.74,55277.92,36176.17,19101.75,34.56,New,Online,49311.8,55277.92,112.1,-15.29
+2025-03-01,March,Q1,2025,West,Mumbai,Rohan Mehta,Home & Living,Storage Rack,15,2755.9,41338.5,25093.11,16245.39,39.3,New,Offline,39154.94,41338.5,105.58,-9.11
+2025-03-01,March,Q1,2025,West,Mumbai,Rohan Mehta,Office Supplies,Ink Cartridge,56,1752.59,98145.04,64342.69,33802.35,34.44,New,Offline,96877.14,98145.04,101.31,5.37
+2025-04-01,April,Q2,2025,East,Bhubaneswar,Arjun Das,Electronics,Webcam HD,16,1943.73,31099.68,18207.5,12892.18,41.45,Existing,Online,27706.46,31099.68,112.25,63.56
+2025-04-01,April,Q2,2025,East,Bhubaneswar,Arjun Das,Furniture,Study Desk,5,6964.28,34821.4,22894.0,11927.4,34.25,Existing,Online,37674.31,34821.4,92.43,-30.04
+2025-04-01,April,Q2,2025,East,Bhubaneswar,Arjun Das,Home & Living,Water Bottle Set,23,915.27,21051.21,10135.17,10916.04,51.85,Existing,Online,18653.92,21051.21,112.85,-23.69
+2025-04-01,April,Q2,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Printer Paper Box,74,1260.45,93273.3,59084.69,34188.61,36.65,Existing,Offline,94847.19,93273.3,98.34,4.15
+2025-04-01,April,Q2,2025,East,Kolkata,Sana Khan,Electronics,Bluetooth Speaker,13,3200.21,41602.73,27867.97,13734.76,33.01,Existing,Online,40098.41,41602.73,103.75,15.46
+2025-04-01,April,Q2,2025,East,Kolkata,Sana Khan,Furniture,Ergonomic Office Chair,5,8788.58,43942.9,28992.21,14950.69,34.02,New,Offline,44659.57,43942.9,98.4,-38.85
+2025-04-01,April,Q2,2025,East,Kolkata,Sana Khan,Home & Living,Storage Rack,16,2853.1,45649.6,26457.77,19191.83,42.04,Existing,Online,49537.04,45649.6,92.15,110.85
+2025-04-01,April,Q2,2025,East,Kolkata,Sana Khan,Office Supplies,Desk Organizer,65,697.04,45307.6,23307.35,22000.25,48.56,New,Offline,41255.83,45307.6,109.82,-48.96
+2025-04-01,April,Q2,2025,North,Delhi,Aarav Sharma,Electronics,Bluetooth Speaker,18,3409.53,61371.54,36933.25,24438.29,39.82,Existing,Online,55943.53,61371.54,109.7,-31.09
+2025-04-01,April,Q2,2025,North,Delhi,Aarav Sharma,Furniture,Study Desk,10,6897.32,68973.2,46436.81,22536.39,32.67,New,Online,70162.01,68973.2,98.31,-36.2
+2025-04-01,April,Q2,2025,North,Delhi,Aarav Sharma,Home & Living,LED Desk Lamp,30,1527.61,45828.3,25207.87,20620.43,44.99,Existing,Online,48595.56,45828.3,94.31,-45.67
+2025-04-01,April,Q2,2025,North,Delhi,Aarav Sharma,Office Supplies,Desk Organizer,58,672.71,39017.18,20695.9,18321.28,46.96,New,Offline,36367.41,39017.18,107.29,-27.38
+2025-04-01,April,Q2,2025,North,Jaipur,Kabir Singh,Electronics,Wireless Headphones,11,2474.45,27218.95,16425.25,10793.7,39.66,New,Offline,27547.32,27218.95,98.81,-16.91
+2025-04-01,April,Q2,2025,North,Jaipur,Kabir Singh,Furniture,Ergonomic Office Chair,6,9326.49,55958.94,34760.1,21198.84,37.88,Existing,Offline,57454.71,55958.94,97.4,-40.05
+2025-04-01,April,Q2,2025,North,Jaipur,Kabir Singh,Home & Living,LED Desk Lamp,20,1554.08,31081.6,17318.35,13763.25,44.28,New,Online,31787.34,31081.6,97.78,-21.45
+2025-04-01,April,Q2,2025,North,Jaipur,Kabir Singh,Office Supplies,Printer Paper Box,65,1266.34,82312.1,53672.09,28640.01,34.79,New,Online,80639.4,82312.1,102.07,55.72
+2025-04-01,April,Q2,2025,South,Hyderabad,Ananya Reddy,Electronics,Smart Watch,19,5005.81,95110.39,62426.67,32683.72,34.36,Existing,Online,101824.55,95110.39,93.41,4.69
+2025-04-01,April,Q2,2025,South,Hyderabad,Ananya Reddy,Furniture,Study Desk,10,7225.19,72251.9,46705.57,25546.33,35.36,New,Online,66836.28,72251.9,108.1,-22.35
+2025-04-01,April,Q2,2025,South,Hyderabad,Ananya Reddy,Home & Living,LED Desk Lamp,23,1512.04,34776.92,19790.25,14986.67,43.09,Existing,Offline,34176.87,34776.92,101.76,-52.55
+2025-04-01,April,Q2,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Printer Paper Box,88,1348.8,118694.4,71722.93,46971.47,39.57,Existing,Online,120697.93,118694.4,98.34,144.26
+2025-04-01,April,Q2,2025,South,Chennai,Diya Iyer,Electronics,Smart Watch,20,4868.2,97364.0,64362.01,33001.99,33.9,New,Online,85526.35,97364.0,113.84,253.69
+2025-04-01,April,Q2,2025,South,Chennai,Diya Iyer,Furniture,Bookshelf,11,4630.14,50931.54,30454.08,20477.46,40.21,Existing,Online,48367.48,50931.54,105.3,0.68
+2025-04-01,April,Q2,2025,South,Chennai,Diya Iyer,Home & Living,Water Bottle Set,28,905.88,25364.64,12083.64,13281.0,52.36,New,Offline,24452.22,25364.64,103.73,31.59
+2025-04-01,April,Q2,2025,South,Chennai,Diya Iyer,Office Supplies,Notebook Pack,67,384.65,25771.55,14260.1,11511.45,44.67,Existing,Offline,28190.99,25771.55,91.42,-83.35
+2025-04-01,April,Q2,2025,South,Kochi,Meera Nair,Electronics,Bluetooth Speaker,20,3398.42,67968.4,42687.06,25281.34,37.2,Existing,Offline,73358.88,67968.4,92.65,166.87
+2025-04-01,April,Q2,2025,South,Kochi,Meera Nair,Furniture,Meeting Table,8,12622.33,100978.64,68723.18,32255.46,31.94,New,Offline,96000.63,100978.64,105.19,83.29
+2025-04-01,April,Q2,2025,South,Kochi,Meera Nair,Home & Living,Storage Rack,21,2753.33,57819.93,34421.75,23398.18,40.47,Existing,Offline,60382.12,57819.93,95.76,41.88
+2025-04-01,April,Q2,2025,South,Kochi,Meera Nair,Office Supplies,Printer Paper Box,58,1264.22,73324.76,46741.63,26583.13,36.25,Existing,Offline,67951.2,73324.76,107.91,-50.86
+2025-04-01,April,Q2,2025,West,Ahmedabad,Ishaan Patel,Electronics,Smart Watch,12,4847.29,58167.48,39961.0,18206.48,31.3,New,Offline,61146.34,58167.48,95.13,25.97
+2025-04-01,April,Q2,2025,West,Ahmedabad,Ishaan Patel,Furniture,Meeting Table,7,12909.12,90363.84,60929.68,29434.16,32.57,Existing,Offline,81324.44,90363.84,111.12,-0.32
+2025-04-01,April,Q2,2025,West,Ahmedabad,Ishaan Patel,Home & Living,Water Bottle Set,23,918.95,21135.85,10186.69,10949.16,51.8,Existing,Online,20927.63,21135.85,100.99,-69.13
+2025-04-01,April,Q2,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Ink Cartridge,63,1803.44,113616.72,71790.62,41826.1,36.81,New,Offline,101968.14,113616.72,111.42,5.35
+2025-04-01,April,Q2,2025,West,Pune,Priya Menon,Electronics,Smart Watch,19,4869.92,92528.48,62078.53,30449.95,32.91,New,Online,82964.93,92528.48,111.53,149.04
+2025-04-01,April,Q2,2025,West,Pune,Priya Menon,Furniture,Study Desk,9,7138.77,64248.93,42495.14,21753.79,33.86,Existing,Online,56961.65,64248.93,112.79,105.32
+2025-04-01,April,Q2,2025,West,Pune,Priya Menon,Home & Living,Water Bottle Set,21,893.2,18757.2,9408.5,9348.7,49.84,Existing,Online,19977.09,18757.2,93.89,-45.71
+2025-04-01,April,Q2,2025,West,Pune,Priya Menon,Office Supplies,Ink Cartridge,79,1833.33,144833.07,91299.34,53533.73,36.96,Existing,Online,129473.63,144833.07,111.86,239.46
+2025-04-01,April,Q2,2025,West,Mumbai,Rohan Mehta,Electronics,Smart Watch,15,5070.03,76050.45,49215.32,26835.13,35.29,Existing,Offline,75564.37,76050.45,100.64,61.2
+2025-04-01,April,Q2,2025,West,Mumbai,Rohan Mehta,Furniture,Study Desk,9,7007.17,63064.53,38925.45,24139.08,38.28,Existing,Online,67692.2,63064.53,93.16,14.09
+2025-04-01,April,Q2,2025,West,Mumbai,Rohan Mehta,Home & Living,Air Purifier,18,8228.72,148116.96,100357.35,47759.61,32.24,Existing,Offline,133195.82,148116.96,111.2,258.3
+2025-04-01,April,Q2,2025,West,Mumbai,Rohan Mehta,Office Supplies,Desk Organizer,55,693.13,38122.15,20224.36,17897.79,46.95,Existing,Online,39881.12,38122.15,95.59,-61.16
+2025-05-01,May,Q2,2025,East,Bhubaneswar,Arjun Das,Electronics,Webcam HD,11,1964.27,21606.97,11937.89,9669.08,44.75,New,Offline,23033.85,21606.97,93.81,-30.52
+2025-05-01,May,Q2,2025,East,Bhubaneswar,Arjun Das,Furniture,Meeting Table,9,13365.45,120289.05,80483.35,39805.7,33.09,Existing,Offline,130726.19,120289.05,92.02,245.45
+2025-05-01,May,Q2,2025,East,Bhubaneswar,Arjun Das,Home & Living,Water Bottle Set,27,898.9,24270.3,11932.63,12337.67,50.83,Existing,Online,23236.44,24270.3,104.45,15.29
+2025-05-01,May,Q2,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Notebook Pack,72,393.38,28323.36,15806.12,12517.24,44.19,Existing,Online,24952.61,28323.36,113.51,-69.63
+2025-05-01,May,Q2,2025,East,Kolkata,Sana Khan,Electronics,Smart Watch,17,5057.5,85977.5,53065.92,32911.58,38.28,Existing,Online,76412.58,85977.5,112.52,106.66
+2025-05-01,May,Q2,2025,East,Kolkata,Sana Khan,Furniture,Meeting Table,8,12540.9,100327.2,68163.88,32163.32,32.06,New,Offline,104590.17,100327.2,95.92,128.31
+2025-05-01,May,Q2,2025,East,Kolkata,Sana Khan,Home & Living,LED Desk Lamp,18,1482.3,26681.4,14764.11,11917.29,44.67,New,Offline,27873.27,26681.4,95.72,-41.55
+2025-05-01,May,Q2,2025,East,Kolkata,Sana Khan,Office Supplies,Desk Organizer,52,682.61,35495.72,18683.42,16812.3,47.36,New,Offline,36084.2,35495.72,98.37,-21.66
+2025-05-01,May,Q2,2025,North,Delhi,Aarav Sharma,Electronics,Webcam HD,19,1924.45,36564.55,21684.25,14880.3,40.7,New,Online,38267.6,36564.55,95.55,-40.42
+2025-05-01,May,Q2,2025,North,Delhi,Aarav Sharma,Furniture,Ergonomic Office Chair,8,9199.25,73594.0,48967.96,24626.04,33.46,Existing,Online,75614.02,73594.0,97.33,6.7
+2025-05-01,May,Q2,2025,North,Delhi,Aarav Sharma,Home & Living,LED Desk Lamp,21,1553.31,32619.51,18116.06,14503.45,44.46,Existing,Online,28752.08,32619.51,113.45,-28.82
+2025-05-01,May,Q2,2025,North,Delhi,Aarav Sharma,Office Supplies,Desk Organizer,100,686.89,68689.0,36746.15,31942.85,46.5,New,Online,64116.23,68689.0,107.13,76.05
+2025-05-01,May,Q2,2025,North,Jaipur,Kabir Singh,Electronics,Webcam HD,16,1871.89,29950.24,18410.9,11539.34,38.53,Existing,Offline,31757.26,29950.24,94.31,10.03
+2025-05-01,May,Q2,2025,North,Jaipur,Kabir Singh,Furniture,Study Desk,6,7211.25,43267.5,26153.51,17113.99,39.55,Existing,Online,46920.46,43267.5,92.21,-22.68
+2025-05-01,May,Q2,2025,North,Jaipur,Kabir Singh,Home & Living,LED Desk Lamp,24,1456.65,34959.6,21164.43,13795.17,39.46,Existing,Offline,37537.13,34959.6,93.13,12.48
+2025-05-01,May,Q2,2025,North,Jaipur,Kabir Singh,Office Supplies,Notebook Pack,48,396.97,19054.56,10379.54,8675.02,45.53,Existing,Offline,20086.18,19054.56,94.86,-76.85
+2025-05-01,May,Q2,2025,South,Hyderabad,Ananya Reddy,Electronics,Wireless Headphones,13,2575.94,33487.22,19884.36,13602.86,40.62,Existing,Online,33241.1,33487.22,100.74,-64.79
+2025-05-01,May,Q2,2025,South,Hyderabad,Ananya Reddy,Furniture,Study Desk,10,7028.22,70282.2,45228.1,25054.1,35.65,Existing,Offline,61658.24,70282.2,113.99,-2.73
+2025-05-01,May,Q2,2025,South,Hyderabad,Ananya Reddy,Home & Living,Storage Rack,22,2698.55,59368.1,37044.29,22323.81,37.6,Existing,Offline,54025.86,59368.1,109.89,70.71
+2025-05-01,May,Q2,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Notebook Pack,100,386.08,38608.0,21535.62,17072.38,44.22,New,Online,38313.04,38608.0,100.77,-67.47
+2025-05-01,May,Q2,2025,South,Chennai,Diya Iyer,Electronics,Smart Watch,15,5073.16,76097.4,46180.34,29917.06,39.31,Existing,Offline,75187.12,76097.4,101.21,-21.84
+2025-05-01,May,Q2,2025,South,Chennai,Diya Iyer,Furniture,Study Desk,8,7243.09,57944.72,37326.91,20617.81,35.58,Existing,Online,54902.75,57944.72,105.54,13.77
+2025-05-01,May,Q2,2025,South,Chennai,Diya Iyer,Home & Living,Water Bottle Set,23,918.03,21114.69,10409.77,10704.92,50.7,Existing,Online,19951.36,21114.69,105.83,-16.76
+2025-05-01,May,Q2,2025,South,Chennai,Diya Iyer,Office Supplies,Desk Organizer,94,684.7,64361.8,35266.03,29095.77,45.21,Existing,Offline,59519.97,64361.8,108.13,149.74
+2025-05-01,May,Q2,2025,South,Kochi,Meera Nair,Electronics,Bluetooth Speaker,18,3361.76,60511.68,36279.0,24232.68,40.05,Existing,Offline,59507.41,60511.68,101.69,-10.97
+2025-05-01,May,Q2,2025,South,Kochi,Meera Nair,Furniture,Study Desk,7,6925.04,48475.28,30861.4,17613.88,36.34,Existing,Online,52136.52,48475.28,92.98,-51.99
+2025-05-01,May,Q2,2025,South,Kochi,Meera Nair,Home & Living,LED Desk Lamp,27,1492.85,40306.95,22843.57,17463.38,43.33,Existing,Offline,42240.33,40306.95,95.42,-30.29
+2025-05-01,May,Q2,2025,South,Kochi,Meera Nair,Office Supplies,Printer Paper Box,68,1265.26,86037.68,57660.28,28377.4,32.98,Existing,Online,81143.57,86037.68,106.03,17.34
+2025-05-01,May,Q2,2025,West,Ahmedabad,Ishaan Patel,Electronics,Smart Watch,18,5061.42,91105.56,56794.61,34310.95,37.66,Existing,Online,82780.66,91105.56,110.06,56.63
+2025-05-01,May,Q2,2025,West,Ahmedabad,Ishaan Patel,Furniture,Ergonomic Office Chair,6,9150.57,54903.42,34068.68,20834.74,37.95,Existing,Online,56610.66,54903.42,96.98,-39.24
+2025-05-01,May,Q2,2025,West,Ahmedabad,Ishaan Patel,Home & Living,Water Bottle Set,25,885.68,22142.0,11118.45,11023.55,49.79,New,Online,23092.88,22142.0,95.88,4.76
+2025-05-01,May,Q2,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Printer Paper Box,77,1325.8,102086.6,65311.7,36774.9,36.02,Existing,Online,99109.23,102086.6,103.0,-10.15
+2025-05-01,May,Q2,2025,West,Pune,Priya Menon,Electronics,Bluetooth Speaker,12,3251.78,39021.36,24043.76,14977.6,38.38,Existing,Offline,39316.44,39021.36,99.25,-57.83
+2025-05-01,May,Q2,2025,West,Pune,Priya Menon,Furniture,Ergonomic Office Chair,9,8933.25,80399.25,53038.23,27361.02,34.03,Existing,Offline,80395.78,80399.25,100.0,25.14
+2025-05-01,May,Q2,2025,West,Pune,Priya Menon,Home & Living,Water Bottle Set,18,887.9,15982.2,7873.06,8109.14,50.74,New,Offline,15990.32,15982.2,99.95,-14.79
+2025-05-01,May,Q2,2025,West,Pune,Priya Menon,Office Supplies,Desk Organizer,75,696.26,52219.5,27300.08,24919.42,47.72,Existing,Online,53081.3,52219.5,98.38,-63.95
+2025-05-01,May,Q2,2025,West,Mumbai,Rohan Mehta,Electronics,Smart Watch,14,4902.14,68629.96,45370.6,23259.36,33.89,New,Offline,61944.25,68629.96,110.79,-9.76
+2025-05-01,May,Q2,2025,West,Mumbai,Rohan Mehta,Furniture,Study Desk,7,6812.94,47690.58,30261.28,17429.3,36.55,Existing,Offline,50636.85,47690.58,94.18,-24.38
+2025-05-01,May,Q2,2025,West,Mumbai,Rohan Mehta,Home & Living,Air Purifier,27,8075.58,218040.66,150800.18,67240.48,30.84,New,Online,199694.76,218040.66,109.19,47.21
+2025-05-01,May,Q2,2025,West,Mumbai,Rohan Mehta,Office Supplies,Ink Cartridge,90,1743.69,156932.1,103889.03,53043.07,33.8,New,Online,155803.45,156932.1,100.72,311.66
+2025-06-01,June,Q2,2025,East,Bhubaneswar,Arjun Das,Electronics,Smart Watch,12,5097.06,61164.72,37317.27,23847.45,38.99,Existing,Offline,54817.99,61164.72,111.58,183.08
+2025-06-01,June,Q2,2025,East,Bhubaneswar,Arjun Das,Furniture,Ergonomic Office Chair,10,8835.28,88352.8,57227.95,31124.85,35.23,New,Online,90432.22,88352.8,97.7,-26.55
+2025-06-01,June,Q2,2025,East,Bhubaneswar,Arjun Das,Home & Living,Storage Rack,18,2720.05,48960.9,29242.88,19718.02,40.27,New,Online,45665.82,48960.9,107.22,101.73
+2025-06-01,June,Q2,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Printer Paper Box,75,1338.78,100408.5,63249.62,37158.88,37.01,New,Online,98436.51,100408.5,102.0,254.51
+2025-06-01,June,Q2,2025,East,Kolkata,Sana Khan,Electronics,Smart Watch,10,4890.21,48902.1,32556.31,16345.79,33.43,Existing,Online,43809.13,48902.1,111.63,-43.12
+2025-06-01,June,Q2,2025,East,Kolkata,Sana Khan,Furniture,Bookshelf,8,4590.01,36720.08,22011.8,14708.28,40.06,Existing,Offline,36411.35,36720.08,100.85,-63.4
+2025-06-01,June,Q2,2025,East,Kolkata,Sana Khan,Home & Living,Storage Rack,23,2770.09,63712.07,37883.87,25828.2,40.54,Existing,Offline,62725.2,63712.07,101.57,138.79
+2025-06-01,June,Q2,2025,East,Kolkata,Sana Khan,Office Supplies,Printer Paper Box,57,1336.02,76153.14,47525.04,28628.1,37.59,Existing,Offline,67336.44,76153.14,113.09,114.54
+2025-06-01,June,Q2,2025,North,Delhi,Aarav Sharma,Electronics,Webcam HD,14,1908.52,26719.28,16119.02,10600.26,39.67,Existing,Offline,25510.08,26719.28,104.74,-26.93
+2025-06-01,June,Q2,2025,North,Delhi,Aarav Sharma,Furniture,Ergonomic Office Chair,11,9120.63,100326.93,62611.1,37715.83,37.59,Existing,Offline,96175.53,100326.93,104.32,36.32
+2025-06-01,June,Q2,2025,North,Delhi,Aarav Sharma,Home & Living,LED Desk Lamp,17,1498.57,25475.69,14477.72,10997.97,43.17,Existing,Online,22907.41,25475.69,111.21,-21.9
+2025-06-01,June,Q2,2025,North,Delhi,Aarav Sharma,Office Supplies,Desk Organizer,82,673.2,55202.4,30146.94,25055.46,45.39,New,Offline,49912.05,55202.4,110.6,-19.63
+2025-06-01,June,Q2,2025,North,Jaipur,Kabir Singh,Electronics,Webcam HD,10,1866.5,18665.0,11724.09,6940.91,37.19,Existing,Offline,16954.24,18665.0,110.09,-37.68
+2025-06-01,June,Q2,2025,North,Jaipur,Kabir Singh,Furniture,Ergonomic Office Chair,9,9341.61,84074.49,55000.66,29073.83,34.58,New,Offline,81191.74,84074.49,103.55,94.31
+2025-06-01,June,Q2,2025,North,Jaipur,Kabir Singh,Home & Living,Storage Rack,15,2768.01,41520.15,24632.08,16888.07,40.67,New,Offline,41003.64,41520.15,101.26,18.77
+2025-06-01,June,Q2,2025,North,Jaipur,Kabir Singh,Office Supplies,Printer Paper Box,73,1340.46,97853.58,62701.1,35152.48,35.92,Existing,Online,97965.4,97853.58,99.89,413.54
+2025-06-01,June,Q2,2025,South,Hyderabad,Ananya Reddy,Electronics,Webcam HD,12,1888.22,22658.64,13423.83,9234.81,40.76,Existing,Offline,20042.98,22658.64,113.05,-32.34
+2025-06-01,June,Q2,2025,South,Hyderabad,Ananya Reddy,Furniture,Bookshelf,8,4429.9,35439.2,23336.3,12102.9,34.15,Existing,Online,31494.48,35439.2,112.53,-49.58
+2025-06-01,June,Q2,2025,South,Hyderabad,Ananya Reddy,Home & Living,Air Purifier,23,8042.16,184969.68,122527.16,62442.52,33.76,New,Offline,188465.63,184969.68,98.15,211.56
+2025-06-01,June,Q2,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Desk Organizer,91,677.61,61662.51,31625.99,30036.52,48.71,New,Online,55025.29,61662.51,112.06,59.71
+2025-06-01,June,Q2,2025,South,Chennai,Diya Iyer,Electronics,Webcam HD,12,1908.89,22906.68,13229.41,9677.27,42.25,Existing,Online,22166.49,22906.68,103.34,-69.9
+2025-06-01,June,Q2,2025,South,Chennai,Diya Iyer,Furniture,Study Desk,10,7259.6,72596.0,47102.5,25493.5,35.12,New,Offline,65285.7,72596.0,111.2,25.28
+2025-06-01,June,Q2,2025,South,Chennai,Diya Iyer,Home & Living,Water Bottle Set,22,893.6,19659.2,9615.13,10044.07,51.09,New,Offline,17828.65,19659.2,110.27,-6.89
+2025-06-01,June,Q2,2025,South,Chennai,Diya Iyer,Office Supplies,Ink Cartridge,73,1741.59,127136.07,87473.31,39662.76,31.2,Existing,Offline,121121.35,127136.07,104.97,97.53
+2025-06-01,June,Q2,2025,South,Kochi,Meera Nair,Electronics,Wireless Headphones,12,2521.44,30257.28,17336.99,12920.29,42.7,New,Offline,31508.09,30257.28,96.03,-50.0
+2025-06-01,June,Q2,2025,South,Kochi,Meera Nair,Furniture,Meeting Table,10,13015.38,130153.8,90850.27,39303.53,30.2,New,Online,137681.04,130153.8,94.53,168.5
+2025-06-01,June,Q2,2025,South,Kochi,Meera Nair,Home & Living,LED Desk Lamp,26,1535.05,39911.3,22444.78,17466.52,43.76,Existing,Online,42876.96,39911.3,93.08,-0.98
+2025-06-01,June,Q2,2025,South,Kochi,Meera Nair,Office Supplies,Desk Organizer,88,681.95,60011.6,32033.91,27977.69,46.62,Existing,Offline,62745.45,60011.6,95.64,-30.25
+2025-06-01,June,Q2,2025,West,Ahmedabad,Ishaan Patel,Electronics,Bluetooth Speaker,14,3282.6,45956.4,29994.73,15961.67,34.73,Existing,Online,48271.2,45956.4,95.2,-49.56
+2025-06-01,June,Q2,2025,West,Ahmedabad,Ishaan Patel,Furniture,Ergonomic Office Chair,9,8869.94,79829.46,54097.6,25731.86,32.23,Existing,Online,74188.29,79829.46,107.6,45.4
+2025-06-01,June,Q2,2025,West,Ahmedabad,Ishaan Patel,Home & Living,LED Desk Lamp,22,1491.41,32811.02,19626.27,13184.75,40.18,Existing,Online,35457.19,32811.02,92.54,48.18
+2025-06-01,June,Q2,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Desk Organizer,56,723.42,40511.52,19694.53,20816.99,51.39,Existing,Online,39450.91,40511.52,102.69,-60.32
+2025-06-01,June,Q2,2025,West,Pune,Priya Menon,Electronics,Wireless Headphones,18,2495.23,44914.14,27820.77,17093.37,38.06,Existing,Online,40878.3,44914.14,109.87,15.1
+2025-06-01,June,Q2,2025,West,Pune,Priya Menon,Furniture,Ergonomic Office Chair,7,8812.36,61686.52,40989.13,20697.39,33.55,Existing,Online,63896.49,61686.52,96.54,-23.27
+2025-06-01,June,Q2,2025,West,Pune,Priya Menon,Home & Living,Air Purifier,29,7830.06,227071.74,159600.32,67471.42,29.71,Existing,Offline,204670.62,227071.74,110.94,1320.78
+2025-06-01,June,Q2,2025,West,Pune,Priya Menon,Office Supplies,Desk Organizer,58,688.59,39938.22,20557.45,19380.77,48.53,Existing,Online,40141.63,39938.22,99.49,-23.52
+2025-06-01,June,Q2,2025,West,Mumbai,Rohan Mehta,Electronics,Wireless Headphones,10,2459.78,24597.8,15580.35,9017.45,36.66,Existing,Online,23015.93,24597.8,106.87,-64.16
+2025-06-01,June,Q2,2025,West,Mumbai,Rohan Mehta,Furniture,Study Desk,7,6810.53,47673.71,32134.72,15538.99,32.59,Existing,Online,46913.83,47673.71,101.62,-0.04
+2025-06-01,June,Q2,2025,West,Mumbai,Rohan Mehta,Home & Living,Storage Rack,27,2777.73,74998.71,46011.56,28987.15,38.65,New,Offline,67540.6,74998.71,111.04,-65.6
+2025-06-01,June,Q2,2025,West,Mumbai,Rohan Mehta,Office Supplies,Desk Organizer,56,683.03,38249.68,19606.93,18642.75,48.74,Existing,Online,33912.79,38249.68,112.79,-75.63
+2025-07-01,July,Q3,2025,East,Bhubaneswar,Arjun Das,Electronics,Wireless Headphones,16,2564.42,41030.72,24293.32,16737.4,40.79,Existing,Offline,38823.69,41030.72,105.68,-32.92
+2025-07-01,July,Q3,2025,East,Bhubaneswar,Arjun Das,Furniture,Ergonomic Office Chair,7,9014.93,63104.51,42297.29,20807.22,32.97,Existing,Online,66493.4,63104.51,94.9,-28.58
+2025-07-01,July,Q3,2025,East,Bhubaneswar,Arjun Das,Home & Living,Air Purifier,23,8227.07,189222.61,118988.98,70233.63,37.12,New,Online,177100.55,189222.61,106.84,286.48
+2025-07-01,July,Q3,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Printer Paper Box,55,1274.13,70077.15,43919.18,26157.97,37.33,Existing,Online,65628.12,70077.15,106.78,-30.21
+2025-07-01,July,Q3,2025,East,Kolkata,Sana Khan,Electronics,Bluetooth Speaker,14,3420.01,47880.14,29385.97,18494.17,38.63,Existing,Online,46963.84,47880.14,101.95,-2.09
+2025-07-01,July,Q3,2025,East,Kolkata,Sana Khan,Furniture,Ergonomic Office Chair,6,8962.67,53776.02,36024.44,17751.58,33.01,Existing,Offline,54297.29,53776.02,99.04,46.45
+2025-07-01,July,Q3,2025,East,Kolkata,Sana Khan,Home & Living,Storage Rack,14,2734.46,38282.44,22363.11,15919.33,41.58,New,Offline,41295.65,38282.44,92.7,-39.91
+2025-07-01,July,Q3,2025,East,Kolkata,Sana Khan,Office Supplies,Desk Organizer,75,678.93,50919.75,28282.8,22636.95,44.46,Existing,Online,53661.82,50919.75,94.89,-33.14
+2025-07-01,July,Q3,2025,North,Delhi,Aarav Sharma,Electronics,Smart Watch,20,5044.4,100888.0,66565.13,34322.87,34.02,Existing,Online,108637.62,100888.0,92.87,277.59
+2025-07-01,July,Q3,2025,North,Delhi,Aarav Sharma,Furniture,Meeting Table,9,12495.48,112459.32,78530.83,33928.49,30.17,Existing,Online,108447.06,112459.32,103.7,12.09
+2025-07-01,July,Q3,2025,North,Delhi,Aarav Sharma,Home & Living,Air Purifier,22,8248.5,181467.0,116321.89,65145.11,35.9,New,Offline,161171.45,181467.0,112.59,612.31
+2025-07-01,July,Q3,2025,North,Delhi,Aarav Sharma,Office Supplies,Ink Cartridge,89,1742.68,155098.52,101202.66,53895.86,34.75,Existing,Offline,139631.56,155098.52,111.08,180.96
+2025-07-01,July,Q3,2025,North,Jaipur,Kabir Singh,Electronics,Bluetooth Speaker,11,3391.64,37308.04,23369.79,13938.25,37.36,New,Offline,38056.46,37308.04,98.03,99.88
+2025-07-01,July,Q3,2025,North,Jaipur,Kabir Singh,Furniture,Meeting Table,6,13122.66,78735.96,53682.32,25053.64,31.82,Existing,Offline,73071.04,78735.96,107.75,-6.35
+2025-07-01,July,Q3,2025,North,Jaipur,Kabir Singh,Home & Living,Water Bottle Set,19,871.52,16558.88,8204.93,8353.95,50.45,Existing,Offline,16544.43,16558.88,100.09,-60.12
+2025-07-01,July,Q3,2025,North,Jaipur,Kabir Singh,Office Supplies,Desk Organizer,71,720.06,51124.26,25750.96,25373.3,49.63,Existing,Offline,52370.33,51124.26,97.62,-47.75
+2025-07-01,July,Q3,2025,South,Hyderabad,Ananya Reddy,Electronics,Wireless Headphones,12,2544.94,30539.28,18502.41,12036.87,39.41,Existing,Online,32057.65,30539.28,95.26,34.78
+2025-07-01,July,Q3,2025,South,Hyderabad,Ananya Reddy,Furniture,Ergonomic Office Chair,10,8972.96,89729.6,58176.87,31552.73,35.16,Existing,Offline,92391.67,89729.6,97.12,153.19
+2025-07-01,July,Q3,2025,South,Hyderabad,Ananya Reddy,Home & Living,Water Bottle Set,18,891.75,16051.5,7628.23,8423.27,52.48,Existing,Offline,16746.22,16051.5,95.85,-91.32
+2025-07-01,July,Q3,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Ink Cartridge,92,1763.7,162260.4,103748.21,58512.19,36.06,Existing,Online,146877.3,162260.4,110.47,163.14
+2025-07-01,July,Q3,2025,South,Chennai,Diya Iyer,Electronics,Bluetooth Speaker,12,3314.04,39768.48,24272.01,15496.47,38.97,New,Online,35245.2,39768.48,112.83,73.61
+2025-07-01,July,Q3,2025,South,Chennai,Diya Iyer,Furniture,Study Desk,9,6944.62,62501.58,41920.37,20581.21,32.93,New,Online,56987.61,62501.58,109.68,-13.9
+2025-07-01,July,Q3,2025,South,Chennai,Diya Iyer,Home & Living,Water Bottle Set,21,932.41,19580.61,9090.44,10490.17,53.57,Existing,Online,17989.74,19580.61,108.84,-0.4
+2025-07-01,July,Q3,2025,South,Chennai,Diya Iyer,Office Supplies,Desk Organizer,79,722.11,57046.69,27660.89,29385.8,51.51,Existing,Online,58597.91,57046.69,97.35,-55.13
+2025-07-01,July,Q3,2025,South,Kochi,Meera Nair,Electronics,Webcam HD,16,1961.77,31388.32,17601.12,13787.2,43.92,Existing,Online,32923.82,31388.32,95.34,3.74
+2025-07-01,July,Q3,2025,South,Kochi,Meera Nair,Furniture,Meeting Table,9,13306.02,119754.18,81937.53,37816.65,31.58,Existing,Offline,120845.21,119754.18,99.1,-7.99
+2025-07-01,July,Q3,2025,South,Kochi,Meera Nair,Home & Living,Storage Rack,27,2863.44,77312.88,44302.77,33010.11,42.7,Existing,Online,71115.56,77312.88,108.71,93.71
+2025-07-01,July,Q3,2025,South,Kochi,Meera Nair,Office Supplies,Printer Paper Box,52,1296.29,67407.08,44720.69,22686.39,33.66,Existing,Offline,69111.95,67407.08,97.53,12.32
+2025-07-01,July,Q3,2025,West,Ahmedabad,Ishaan Patel,Electronics,Wireless Headphones,17,2520.26,42844.42,25991.21,16853.21,39.34,New,Online,39902.0,42844.42,107.37,-6.77
+2025-07-01,July,Q3,2025,West,Ahmedabad,Ishaan Patel,Furniture,Study Desk,6,7034.57,42207.42,27124.32,15083.1,35.74,Existing,Offline,46022.43,42207.42,91.71,-47.13
+2025-07-01,July,Q3,2025,West,Ahmedabad,Ishaan Patel,Home & Living,Water Bottle Set,22,926.74,20388.28,9480.91,10907.37,53.5,Existing,Online,21170.06,20388.28,96.31,-37.86
+2025-07-01,July,Q3,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Desk Organizer,80,723.89,57911.2,27779.88,30131.32,52.03,New,Offline,53542.38,57911.2,108.16,42.95
+2025-07-01,July,Q3,2025,West,Pune,Priya Menon,Electronics,Smart Watch,13,4917.02,63921.26,42065.71,21855.55,34.19,Existing,Offline,60855.53,63921.26,105.04,42.32
+2025-07-01,July,Q3,2025,West,Pune,Priya Menon,Furniture,Meeting Table,9,13127.48,118147.32,76119.91,42027.41,35.57,Existing,Offline,127446.28,118147.32,92.7,91.53
+2025-07-01,July,Q3,2025,West,Pune,Priya Menon,Home & Living,Water Bottle Set,25,922.72,23068.0,11100.34,11967.66,51.88,Existing,Online,21916.6,23068.0,105.25,-89.84
+2025-07-01,July,Q3,2025,West,Pune,Priya Menon,Office Supplies,Desk Organizer,60,693.91,41634.6,20904.57,20730.03,49.79,Existing,Offline,43165.94,41634.6,96.45,4.25
+2025-07-01,July,Q3,2025,West,Mumbai,Rohan Mehta,Electronics,Smart Watch,11,4950.34,54453.74,36437.68,18016.06,33.09,New,Offline,47823.58,54453.74,113.86,121.38
+2025-07-01,July,Q3,2025,West,Mumbai,Rohan Mehta,Furniture,Meeting Table,8,12519.23,100153.84,68118.9,32034.94,31.99,Existing,Online,100063.39,100153.84,100.09,110.08
+2025-07-01,July,Q3,2025,West,Mumbai,Rohan Mehta,Home & Living,Storage Rack,26,2830.85,73602.1,43849.64,29752.46,40.42,Existing,Online,65577.41,73602.1,112.24,-1.86
+2025-07-01,July,Q3,2025,West,Mumbai,Rohan Mehta,Office Supplies,Printer Paper Box,54,1285.65,69425.1,43261.35,26163.75,37.69,Existing,Online,62645.75,69425.1,110.82,81.51
+2025-08-01,August,Q3,2025,East,Bhubaneswar,Arjun Das,Electronics,Webcam HD,13,1913.21,24871.73,14006.21,10865.52,43.69,Existing,Online,26655.91,24871.73,93.31,-39.38
+2025-08-01,August,Q3,2025,East,Bhubaneswar,Arjun Das,Furniture,Bookshelf,5,4703.06,23515.3,14888.63,8626.67,36.69,Existing,Offline,24105.75,23515.3,97.55,-62.74
+2025-08-01,August,Q3,2025,East,Bhubaneswar,Arjun Das,Home & Living,Air Purifier,24,7772.94,186550.56,127150.12,59400.44,31.84,New,Online,169005.96,186550.56,110.38,-1.41
+2025-08-01,August,Q3,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Desk Organizer,79,706.4,55805.6,29680.68,26124.92,46.81,New,Online,53876.44,55805.6,103.58,-20.37
+2025-08-01,August,Q3,2025,East,Kolkata,Sana Khan,Electronics,Webcam HD,15,1921.91,28828.65,16303.24,12525.41,43.45,Existing,Online,30502.68,28828.65,94.51,-39.79
+2025-08-01,August,Q3,2025,East,Kolkata,Sana Khan,Furniture,Meeting Table,6,13194.02,79164.12,50334.56,28829.56,36.42,New,Online,78746.66,79164.12,100.53,47.21
+2025-08-01,August,Q3,2025,East,Kolkata,Sana Khan,Home & Living,Storage Rack,17,2690.13,45732.21,27554.82,18177.39,39.75,Existing,Offline,45874.3,45732.21,99.69,19.46
+2025-08-01,August,Q3,2025,East,Kolkata,Sana Khan,Office Supplies,Ink Cartridge,62,1767.29,109571.98,69250.61,40321.37,36.8,Existing,Offline,117190.11,109571.98,93.5,115.19
+2025-08-01,August,Q3,2025,North,Delhi,Aarav Sharma,Electronics,Smart Watch,16,4995.73,79931.68,51588.05,28343.63,35.46,Existing,Online,77708.58,79931.68,102.86,-20.77
+2025-08-01,August,Q3,2025,North,Delhi,Aarav Sharma,Furniture,Meeting Table,8,12979.86,103838.88,72589.43,31249.45,30.09,Existing,Offline,102442.33,103838.88,101.36,-7.67
+2025-08-01,August,Q3,2025,North,Delhi,Aarav Sharma,Home & Living,LED Desk Lamp,18,1442.9,25972.2,15472.87,10499.33,40.43,Existing,Online,24638.59,25972.2,105.41,-85.69
+2025-08-01,August,Q3,2025,North,Delhi,Aarav Sharma,Office Supplies,Ink Cartridge,52,1758.26,91429.52,58423.95,33005.57,36.1,Existing,Offline,84759.2,91429.52,107.87,-41.05
+2025-08-01,August,Q3,2025,North,Jaipur,Kabir Singh,Electronics,Smart Watch,14,4817.42,67443.88,44428.12,23015.76,34.13,New,Online,63739.22,67443.88,105.81,80.78
+2025-08-01,August,Q3,2025,North,Jaipur,Kabir Singh,Furniture,Ergonomic Office Chair,8,9078.48,72627.84,48611.2,24016.64,33.07,Existing,Online,71255.8,72627.84,101.93,-7.76
+2025-08-01,August,Q3,2025,North,Jaipur,Kabir Singh,Home & Living,Storage Rack,15,2871.64,43074.6,25821.97,17252.63,40.05,Existing,Online,38365.56,43074.6,112.27,160.13
+2025-08-01,August,Q3,2025,North,Jaipur,Kabir Singh,Office Supplies,Ink Cartridge,50,1762.38,88119.0,55902.12,32216.88,36.56,Existing,Online,92695.04,88119.0,95.06,72.36
+2025-08-01,August,Q3,2025,South,Hyderabad,Ananya Reddy,Electronics,Smart Watch,11,4821.01,53031.11,35634.91,17396.2,32.8,Existing,Online,50529.39,53031.11,104.95,73.65
+2025-08-01,August,Q3,2025,South,Hyderabad,Ananya Reddy,Furniture,Ergonomic Office Chair,6,8959.18,53755.08,35394.92,18360.16,34.16,Existing,Offline,58907.49,53755.08,91.25,-40.09
+2025-08-01,August,Q3,2025,South,Hyderabad,Ananya Reddy,Home & Living,LED Desk Lamp,21,1510.92,31729.32,18667.23,13062.09,41.17,New,Online,31961.9,31729.32,99.27,97.67
+2025-08-01,August,Q3,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Ink Cartridge,56,1857.13,103999.28,65574.16,38425.12,36.95,New,Offline,96590.06,103999.28,107.67,-35.91
+2025-08-01,August,Q3,2025,South,Chennai,Diya Iyer,Electronics,Wireless Headphones,17,2527.3,42964.1,25426.13,17537.97,40.82,New,Offline,41914.22,42964.1,102.5,8.04
+2025-08-01,August,Q3,2025,South,Chennai,Diya Iyer,Furniture,Study Desk,10,7142.39,71423.9,46641.41,24782.49,34.7,New,Online,73815.55,71423.9,96.76,14.28
+2025-08-01,August,Q3,2025,South,Chennai,Diya Iyer,Home & Living,Water Bottle Set,21,930.14,19532.94,9039.93,10493.01,53.72,Existing,Online,19317.43,19532.94,101.12,-0.24
+2025-08-01,August,Q3,2025,South,Chennai,Diya Iyer,Office Supplies,Ink Cartridge,88,1810.87,159356.56,107124.49,52232.07,32.78,Existing,Offline,143850.46,159356.56,110.78,179.34
+2025-08-01,August,Q3,2025,South,Kochi,Meera Nair,Electronics,Smart Watch,18,4803.86,86469.48,59251.49,27217.99,31.48,Existing,Offline,83418.5,86469.48,103.66,175.48
+2025-08-01,August,Q3,2025,South,Kochi,Meera Nair,Furniture,Meeting Table,8,12560.32,100482.56,72139.08,28343.48,28.21,Existing,Online,96476.5,100482.56,104.15,-16.09
+2025-08-01,August,Q3,2025,South,Kochi,Meera Nair,Home & Living,LED Desk Lamp,23,1476.48,33959.04,20473.76,13485.28,39.71,Existing,Online,35355.46,33959.04,96.05,-56.08
+2025-08-01,August,Q3,2025,South,Kochi,Meera Nair,Office Supplies,Ink Cartridge,75,1833.51,137513.25,84107.39,53405.86,38.84,Existing,Online,133863.99,137513.25,102.73,104.0
+2025-08-01,August,Q3,2025,West,Ahmedabad,Ishaan Patel,Electronics,Smart Watch,12,5175.99,62111.88,39401.21,22710.67,36.56,Existing,Online,56164.3,62111.88,110.59,44.97
+2025-08-01,August,Q3,2025,West,Ahmedabad,Ishaan Patel,Furniture,Study Desk,9,6854.37,61689.33,41135.02,20554.31,33.32,New,Offline,54252.32,61689.33,113.71,46.16
+2025-08-01,August,Q3,2025,West,Ahmedabad,Ishaan Patel,Home & Living,LED Desk Lamp,25,1473.23,36830.75,21040.78,15789.97,42.87,Existing,Offline,36369.96,36830.75,101.27,80.65
+2025-08-01,August,Q3,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Ink Cartridge,61,1739.76,106125.36,72223.14,33902.22,31.95,New,Online,97958.8,106125.36,108.34,83.26
+2025-08-01,August,Q3,2025,West,Pune,Priya Menon,Electronics,Smart Watch,14,4990.92,69872.88,46951.48,22921.4,32.8,New,Online,61974.49,69872.88,112.74,9.31
+2025-08-01,August,Q3,2025,West,Pune,Priya Menon,Furniture,Study Desk,6,6867.87,41207.22,27144.88,14062.34,34.13,Existing,Offline,40180.41,41207.22,102.56,-65.12
+2025-08-01,August,Q3,2025,West,Pune,Priya Menon,Home & Living,Air Purifier,27,7928.54,214070.58,145571.67,68498.91,32.0,New,Online,233409.49,214070.58,91.71,828.0
+2025-08-01,August,Q3,2025,West,Pune,Priya Menon,Office Supplies,Desk Organizer,84,685.51,57582.84,30403.57,27179.27,47.2,Existing,Online,52028.33,57582.84,110.68,38.31
+2025-08-01,August,Q3,2025,West,Mumbai,Rohan Mehta,Electronics,Wireless Headphones,16,2595.97,41535.52,24997.19,16538.33,39.82,New,Online,40097.04,41535.52,103.59,-23.72
+2025-08-01,August,Q3,2025,West,Mumbai,Rohan Mehta,Furniture,Meeting Table,8,13062.2,104497.6,69982.47,34515.13,33.03,Existing,Offline,105904.38,104497.6,98.67,4.34
+2025-08-01,August,Q3,2025,West,Mumbai,Rohan Mehta,Home & Living,Water Bottle Set,17,902.88,15348.96,7195.04,8153.92,53.12,New,Offline,15770.71,15348.96,97.33,-79.15
+2025-08-01,August,Q3,2025,West,Mumbai,Rohan Mehta,Office Supplies,Printer Paper Box,76,1260.26,95779.76,60885.65,34894.11,36.43,Existing,Online,88304.89,95779.76,108.46,37.96
+2025-09-01,September,Q3,2025,East,Bhubaneswar,Arjun Das,Electronics,Wireless Headphones,14,2457.48,34404.72,21997.21,12407.51,36.06,Existing,Online,35149.94,34404.72,97.88,38.33
+2025-09-01,September,Q3,2025,East,Bhubaneswar,Arjun Das,Furniture,Ergonomic Office Chair,5,8667.49,43337.45,30254.12,13083.33,30.19,New,Offline,38411.52,43337.45,112.82,84.29
+2025-09-01,September,Q3,2025,East,Bhubaneswar,Arjun Das,Home & Living,Air Purifier,24,8061.82,193483.68,133642.68,59841.0,30.93,New,Online,203332.62,193483.68,95.16,3.72
+2025-09-01,September,Q3,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Printer Paper Box,58,1296.05,75170.9,47738.07,27432.83,36.49,Existing,Online,74488.24,75170.9,100.92,34.7
+2025-09-01,September,Q3,2025,East,Kolkata,Sana Khan,Electronics,Webcam HD,9,1837.14,16534.26,10186.65,6347.61,38.39,Existing,Online,15360.86,16534.26,107.64,-42.65
+2025-09-01,September,Q3,2025,East,Kolkata,Sana Khan,Furniture,Study Desk,7,7205.81,50440.67,32023.07,18417.6,36.51,Existing,Offline,45446.86,50440.67,110.99,-36.28
+2025-09-01,September,Q3,2025,East,Kolkata,Sana Khan,Home & Living,LED Desk Lamp,14,1479.7,20715.8,12177.75,8538.05,41.22,New,Offline,19079.39,20715.8,108.58,-54.7
+2025-09-01,September,Q3,2025,East,Kolkata,Sana Khan,Office Supplies,Notebook Pack,68,400.79,27253.72,13986.75,13266.97,48.68,Existing,Online,28589.9,27253.72,95.33,-75.13
+2025-09-01,September,Q3,2025,North,Delhi,Aarav Sharma,Electronics,Bluetooth Speaker,12,3219.87,38638.44,25121.6,13516.84,34.98,Existing,Online,38961.82,38638.44,99.17,-51.66
+2025-09-01,September,Q3,2025,North,Delhi,Aarav Sharma,Furniture,Study Desk,8,6914.37,55314.96,36882.28,18432.68,33.32,Existing,Offline,53108.38,55314.96,104.15,-46.73
+2025-09-01,September,Q3,2025,North,Delhi,Aarav Sharma,Home & Living,LED Desk Lamp,26,1528.63,39744.38,21476.07,18268.31,45.96,Existing,Offline,37027.23,39744.38,107.34,53.03
+2025-09-01,September,Q3,2025,North,Delhi,Aarav Sharma,Office Supplies,Printer Paper Box,52,1340.58,69710.16,42249.35,27460.81,39.39,Existing,Online,72249.94,69710.16,96.48,-23.76
+2025-09-01,September,Q3,2025,North,Jaipur,Kabir Singh,Electronics,Webcam HD,13,1848.86,24035.18,15049.81,8985.37,37.38,New,Offline,25665.1,24035.18,93.65,-64.36
+2025-09-01,September,Q3,2025,North,Jaipur,Kabir Singh,Furniture,Bookshelf,5,4622.5,23112.5,14604.73,8507.77,36.81,Existing,Offline,24972.14,23112.5,92.55,-68.18
+2025-09-01,September,Q3,2025,North,Jaipur,Kabir Singh,Home & Living,Storage Rack,20,2759.43,55188.6,33425.28,21763.32,39.43,Existing,Online,59091.29,55188.6,93.4,28.12
+2025-09-01,September,Q3,2025,North,Jaipur,Kabir Singh,Office Supplies,Ink Cartridge,45,1764.25,79391.25,53226.42,26164.83,32.96,Existing,Offline,83326.41,79391.25,95.28,-9.9
+2025-09-01,September,Q3,2025,South,Hyderabad,Ananya Reddy,Electronics,Webcam HD,12,1829.49,21953.88,13444.56,8509.32,38.76,Existing,Online,19738.0,21953.88,111.23,-58.6
+2025-09-01,September,Q3,2025,South,Hyderabad,Ananya Reddy,Furniture,Study Desk,7,6870.41,48092.87,32773.76,15319.11,31.85,Existing,Online,47802.19,48092.87,100.61,-10.53
+2025-09-01,September,Q3,2025,South,Hyderabad,Ananya Reddy,Home & Living,Water Bottle Set,24,881.5,21156.0,11059.27,10096.73,47.73,Existing,Offline,22442.31,21156.0,94.27,-33.32
+2025-09-01,September,Q3,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Printer Paper Box,62,1299.28,80555.36,49500.98,31054.38,38.55,Existing,Online,73265.46,80555.36,109.95,-22.54
+2025-09-01,September,Q3,2025,South,Chennai,Diya Iyer,Electronics,Bluetooth Speaker,11,3429.06,37719.66,22341.15,15378.51,40.77,Existing,Online,39666.5,37719.66,95.09,-12.21
+2025-09-01,September,Q3,2025,South,Chennai,Diya Iyer,Furniture,Bookshelf,9,4640.62,41765.58,24656.61,17108.97,40.96,New,Online,44673.97,41765.58,93.49,-41.52
+2025-09-01,September,Q3,2025,South,Chennai,Diya Iyer,Home & Living,LED Desk Lamp,15,1479.69,22195.35,12616.29,9579.06,43.16,New,Online,20474.86,22195.35,108.4,13.63
+2025-09-01,September,Q3,2025,South,Chennai,Diya Iyer,Office Supplies,Desk Organizer,58,686.36,39808.88,20106.46,19702.42,49.49,New,Online,39865.15,39808.88,99.86,-75.02
+2025-09-01,September,Q3,2025,South,Kochi,Meera Nair,Electronics,Smart Watch,13,4981.14,64754.82,43202.76,21552.06,33.28,Existing,Online,69165.92,64754.82,93.62,-25.11
+2025-09-01,September,Q3,2025,South,Kochi,Meera Nair,Furniture,Meeting Table,6,13445.78,80674.68,54563.32,26111.36,32.37,Existing,Online,80216.07,80674.68,100.57,-19.71
+2025-09-01,September,Q3,2025,South,Kochi,Meera Nair,Home & Living,LED Desk Lamp,15,1479.69,22195.35,12992.14,9203.21,41.46,Existing,Offline,19968.08,22195.35,111.15,-34.64
+2025-09-01,September,Q3,2025,South,Kochi,Meera Nair,Office Supplies,Printer Paper Box,72,1340.4,96508.8,58024.38,38484.42,39.88,New,Online,91015.3,96508.8,106.04,-29.82
+2025-09-01,September,Q3,2025,West,Ahmedabad,Ishaan Patel,Electronics,Bluetooth Speaker,14,3251.54,45521.56,28503.43,17018.13,37.38,New,Online,45757.58,45521.56,99.48,-26.71
+2025-09-01,September,Q3,2025,West,Ahmedabad,Ishaan Patel,Furniture,Ergonomic Office Chair,6,8822.3,52933.8,35213.55,17720.25,33.48,New,Offline,52972.18,52933.8,99.93,-14.19
+2025-09-01,September,Q3,2025,West,Ahmedabad,Ishaan Patel,Home & Living,Water Bottle Set,15,928.47,13927.05,6807.44,7119.61,51.12,Existing,Offline,12249.55,13927.05,113.69,-62.19
+2025-09-01,September,Q3,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Notebook Pack,61,400.08,24404.88,13187.48,11217.4,45.96,Existing,Offline,23692.78,24404.88,103.01,-77.0
+2025-09-01,September,Q3,2025,West,Pune,Priya Menon,Electronics,Webcam HD,16,1866.71,29867.36,17484.69,12382.67,41.46,Existing,Offline,32553.11,29867.36,91.75,-57.25
+2025-09-01,September,Q3,2025,West,Pune,Priya Menon,Furniture,Study Desk,6,6756.54,40539.24,26899.95,13639.29,33.64,New,Offline,42313.85,40539.24,95.81,-1.62
+2025-09-01,September,Q3,2025,West,Pune,Priya Menon,Home & Living,LED Desk Lamp,25,1490.41,37260.25,21719.17,15541.08,41.71,Existing,Online,40242.1,37260.25,92.59,-82.59
+2025-09-01,September,Q3,2025,West,Pune,Priya Menon,Office Supplies,Notebook Pack,70,401.35,28094.5,14770.85,13323.65,47.42,Existing,Offline,29828.31,28094.5,94.19,-51.21
+2025-09-01,September,Q3,2025,West,Mumbai,Rohan Mehta,Electronics,Smart Watch,13,5170.38,67214.94,41823.8,25391.14,37.78,New,Offline,61898.25,67214.94,108.59,61.83
+2025-09-01,September,Q3,2025,West,Mumbai,Rohan Mehta,Furniture,Meeting Table,7,13357.02,93499.14,63372.26,30126.88,32.22,Existing,Offline,95315.31,93499.14,98.09,-10.53
+2025-09-01,September,Q3,2025,West,Mumbai,Rohan Mehta,Home & Living,Air Purifier,20,8171.9,163438.0,110416.52,53021.48,32.44,Existing,Online,167893.48,163438.0,97.35,964.81
+2025-09-01,September,Q3,2025,West,Mumbai,Rohan Mehta,Office Supplies,Notebook Pack,71,386.05,27409.55,15647.81,11761.74,42.91,New,Offline,29862.41,27409.55,91.79,-71.38
+2025-10-01,October,Q4,2025,East,Bhubaneswar,Arjun Das,Electronics,Smart Watch,13,4916.6,63915.8,41970.15,21945.65,34.34,Existing,Offline,65514.29,63915.8,97.56,85.78
+2025-10-01,October,Q4,2025,East,Bhubaneswar,Arjun Das,Furniture,Study Desk,6,7106.94,42641.64,25980.85,16660.79,39.07,Existing,Online,40531.41,42641.64,105.21,-1.61
+2025-10-01,October,Q4,2025,East,Bhubaneswar,Arjun Das,Home & Living,Storage Rack,13,2833.71,36838.23,22513.92,14324.31,38.88,Existing,Offline,33484.48,36838.23,110.02,-80.96
+2025-10-01,October,Q4,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Ink Cartridge,64,1834.51,117408.64,74721.94,42686.7,36.36,Existing,Online,125841.41,117408.64,93.3,56.19
+2025-10-01,October,Q4,2025,East,Kolkata,Sana Khan,Electronics,Webcam HD,9,1918.17,17263.53,10504.35,6759.18,39.15,Existing,Offline,15684.28,17263.53,110.07,4.41
+2025-10-01,October,Q4,2025,East,Kolkata,Sana Khan,Furniture,Study Desk,7,7072.51,49507.57,31998.12,17509.45,35.37,Existing,Online,43798.01,49507.57,113.04,-1.85
+2025-10-01,October,Q4,2025,East,Kolkata,Sana Khan,Home & Living,Storage Rack,17,2763.11,46972.87,27558.69,19414.18,41.33,Existing,Offline,49456.93,46972.87,94.98,126.75
+2025-10-01,October,Q4,2025,East,Kolkata,Sana Khan,Office Supplies,Desk Organizer,40,714.74,28589.6,14312.96,14276.64,49.94,Existing,Online,28292.32,28589.6,101.05,4.9
+2025-10-01,October,Q4,2025,North,Delhi,Aarav Sharma,Electronics,Bluetooth Speaker,13,3185.29,41408.77,27329.82,14078.95,34.0,Existing,Online,37359.52,41408.77,110.84,7.17
+2025-10-01,October,Q4,2025,North,Delhi,Aarav Sharma,Furniture,Ergonomic Office Chair,6,9240.55,55443.3,34267.33,21175.97,38.19,New,Offline,57514.88,55443.3,96.4,0.23
+2025-10-01,October,Q4,2025,North,Delhi,Aarav Sharma,Home & Living,Storage Rack,21,2873.05,60334.05,33425.38,26908.67,44.6,Existing,Offline,56513.76,60334.05,106.76,51.81
+2025-10-01,October,Q4,2025,North,Delhi,Aarav Sharma,Office Supplies,Printer Paper Box,70,1291.34,90393.8,59213.68,31180.12,34.49,Existing,Offline,95702.43,90393.8,94.45,29.67
+2025-10-01,October,Q4,2025,North,Jaipur,Kabir Singh,Electronics,Bluetooth Speaker,11,3317.89,36496.79,21747.6,14749.19,40.41,Existing,Offline,34392.43,36496.79,106.12,51.85
+2025-10-01,October,Q4,2025,North,Jaipur,Kabir Singh,Furniture,Study Desk,8,7122.3,56978.4,36638.61,20339.79,35.7,Existing,Online,54294.87,56978.4,104.94,146.53
+2025-10-01,October,Q4,2025,North,Jaipur,Kabir Singh,Home & Living,LED Desk Lamp,21,1465.63,30778.23,18315.2,12463.03,40.49,Existing,Offline,31155.96,30778.23,98.79,-44.23
+2025-10-01,October,Q4,2025,North,Jaipur,Kabir Singh,Office Supplies,Desk Organizer,71,686.31,48728.01,25750.83,22977.18,47.15,Existing,Online,46575.16,48728.01,104.62,-38.62
+2025-10-01,October,Q4,2025,South,Hyderabad,Ananya Reddy,Electronics,Wireless Headphones,12,2585.26,31023.12,17480.63,13542.49,43.65,Existing,Online,27772.02,31023.12,111.71,41.31
+2025-10-01,October,Q4,2025,South,Hyderabad,Ananya Reddy,Furniture,Ergonomic Office Chair,9,9161.49,82453.41,51303.94,31149.47,37.78,Existing,Offline,74924.58,82453.41,110.05,71.45
+2025-10-01,October,Q4,2025,South,Hyderabad,Ananya Reddy,Home & Living,Storage Rack,27,2784.92,75192.84,45799.67,29393.17,39.09,New,Online,72715.38,75192.84,103.41,255.42
+2025-10-01,October,Q4,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Desk Organizer,76,703.82,53490.32,27059.63,26430.69,49.41,Existing,Offline,50329.65,53490.32,106.28,-33.6
+2025-10-01,October,Q4,2025,South,Chennai,Diya Iyer,Electronics,Webcam HD,14,1886.63,26412.82,15570.12,10842.7,41.05,Existing,Online,26944.69,26412.82,98.03,-29.98
+2025-10-01,October,Q4,2025,South,Chennai,Diya Iyer,Furniture,Study Desk,6,6859.5,41157.0,26807.06,14349.94,34.87,Existing,Offline,43748.17,41157.0,94.08,-1.46
+2025-10-01,October,Q4,2025,South,Chennai,Diya Iyer,Home & Living,Storage Rack,23,2908.09,66886.07,36585.29,30300.78,45.3,New,Offline,61708.86,66886.07,108.39,201.35
+2025-10-01,October,Q4,2025,South,Chennai,Diya Iyer,Office Supplies,Printer Paper Box,53,1335.13,70761.89,42650.7,28111.19,39.73,New,Online,65199.23,70761.89,108.53,77.75
+2025-10-01,October,Q4,2025,South,Kochi,Meera Nair,Electronics,Smart Watch,14,5144.61,72024.54,45924.43,26100.11,36.24,Existing,Online,76386.86,72024.54,94.29,11.23
+2025-10-01,October,Q4,2025,South,Kochi,Meera Nair,Furniture,Study Desk,9,6827.12,61444.08,40240.98,21203.1,34.51,Existing,Online,65763.24,61444.08,93.43,-23.84
+2025-10-01,October,Q4,2025,South,Kochi,Meera Nair,Home & Living,Water Bottle Set,14,932.02,13048.28,6136.55,6911.73,52.97,Existing,Offline,12667.1,13048.28,103.01,-41.21
+2025-10-01,October,Q4,2025,South,Kochi,Meera Nair,Office Supplies,Notebook Pack,74,409.08,30271.92,15454.54,14817.38,48.95,Existing,Online,28830.63,30271.92,105.0,-68.63
+2025-10-01,October,Q4,2025,West,Ahmedabad,Ishaan Patel,Electronics,Webcam HD,14,1855.21,25972.94,16209.21,9763.73,37.59,New,Offline,23013.13,25972.94,112.86,-42.94
+2025-10-01,October,Q4,2025,West,Ahmedabad,Ishaan Patel,Furniture,Bookshelf,5,4720.1,23600.5,14035.51,9564.99,40.53,Existing,Offline,22858.61,23600.5,103.25,-55.42
+2025-10-01,October,Q4,2025,West,Ahmedabad,Ishaan Patel,Home & Living,Storage Rack,20,2719.69,54393.8,32353.29,22040.51,40.52,New,Online,52323.73,54393.8,103.96,290.56
+2025-10-01,October,Q4,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Desk Organizer,50,696.91,34845.5,17960.02,16885.48,48.46,New,Online,31607.98,34845.5,110.24,42.78
+2025-10-01,October,Q4,2025,West,Pune,Priya Menon,Electronics,Bluetooth Speaker,17,3330.65,56621.05,35641.28,20979.77,37.05,New,Offline,61814.45,56621.05,91.6,89.58
+2025-10-01,October,Q4,2025,West,Pune,Priya Menon,Furniture,Bookshelf,6,4722.69,28336.14,16534.1,11802.04,41.65,New,Online,28712.19,28336.14,98.69,-30.1
+2025-10-01,October,Q4,2025,West,Pune,Priya Menon,Home & Living,LED Desk Lamp,16,1474.46,23591.36,14173.9,9417.46,39.92,Existing,Offline,20902.23,23591.36,112.87,-36.68
+2025-10-01,October,Q4,2025,West,Pune,Priya Menon,Office Supplies,Notebook Pack,77,397.44,30602.88,16108.77,14494.11,47.36,Existing,Offline,32604.32,30602.88,93.86,8.93
+2025-10-01,October,Q4,2025,West,Mumbai,Rohan Mehta,Electronics,Webcam HD,17,1824.7,31019.9,19298.32,11721.58,37.79,New,Online,33052.53,31019.9,93.85,-53.85
+2025-10-01,October,Q4,2025,West,Mumbai,Rohan Mehta,Furniture,Study Desk,8,7029.94,56239.52,36492.48,19747.04,35.11,Existing,Offline,51344.93,56239.52,109.53,-39.85
+2025-10-01,October,Q4,2025,West,Mumbai,Rohan Mehta,Home & Living,LED Desk Lamp,19,1489.04,28291.76,16285.17,12006.59,42.44,New,Online,27431.6,28291.76,103.14,-82.69
+2025-10-01,October,Q4,2025,West,Mumbai,Rohan Mehta,Office Supplies,Notebook Pack,55,400.78,22042.9,11397.16,10645.74,48.3,Existing,Offline,19435.51,22042.9,113.42,-19.58
+2025-11-01,November,Q4,2025,East,Bhubaneswar,Arjun Das,Electronics,Webcam HD,16,1848.22,29571.52,17275.72,12295.8,41.58,Existing,Online,32265.45,29571.52,91.65,-53.73
+2025-11-01,November,Q4,2025,East,Bhubaneswar,Arjun Das,Furniture,Ergonomic Office Chair,7,9041.24,63288.68,40698.18,22590.5,35.69,Existing,Offline,64831.93,63288.68,97.62,48.42
+2025-11-01,November,Q4,2025,East,Bhubaneswar,Arjun Das,Home & Living,Storage Rack,16,2868.98,45903.68,27093.58,18810.1,40.98,Existing,Online,41727.79,45903.68,110.01,24.61
+2025-11-01,November,Q4,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Ink Cartridge,79,1734.82,137050.78,95857.96,41192.82,30.06,Existing,Online,142672.28,137050.78,96.06,16.73
+2025-11-01,November,Q4,2025,East,Kolkata,Sana Khan,Electronics,Wireless Headphones,13,2469.29,32100.77,19100.19,13000.58,40.5,Existing,Online,28533.0,32100.77,112.5,85.95
+2025-11-01,November,Q4,2025,East,Kolkata,Sana Khan,Furniture,Bookshelf,5,4556.84,22784.2,14751.99,8032.21,35.25,Existing,Offline,20624.46,22784.2,110.47,-53.98
+2025-11-01,November,Q4,2025,East,Kolkata,Sana Khan,Home & Living,Storage Rack,14,2700.77,37810.78,23414.79,14395.99,38.07,New,Online,35070.48,37810.78,107.81,-19.51
+2025-11-01,November,Q4,2025,East,Kolkata,Sana Khan,Office Supplies,Notebook Pack,64,403.05,25795.2,13329.74,12465.46,48.32,Existing,Offline,25208.68,25795.2,102.33,-9.77
+2025-11-01,November,Q4,2025,North,Delhi,Aarav Sharma,Electronics,Bluetooth Speaker,17,3343.18,56834.06,34888.58,21945.48,38.61,New,Online,54062.51,56834.06,105.13,37.25
+2025-11-01,November,Q4,2025,North,Delhi,Aarav Sharma,Furniture,Study Desk,7,6849.25,47944.75,32128.26,15816.49,32.99,Existing,Offline,46850.66,47944.75,102.34,-13.52
+2025-11-01,November,Q4,2025,North,Delhi,Aarav Sharma,Home & Living,Air Purifier,19,8240.56,156570.64,106362.87,50207.77,32.07,Existing,Offline,155455.42,156570.64,100.72,159.51
+2025-11-01,November,Q4,2025,North,Delhi,Aarav Sharma,Office Supplies,Printer Paper Box,60,1275.22,76513.2,49420.58,27092.62,35.41,Existing,Offline,68468.53,76513.2,111.75,-15.36
+2025-11-01,November,Q4,2025,North,Jaipur,Kabir Singh,Electronics,Smart Watch,10,4986.36,49863.6,33290.35,16573.25,33.24,New,Offline,43988.55,49863.6,113.36,36.62
+2025-11-01,November,Q4,2025,North,Jaipur,Kabir Singh,Furniture,Bookshelf,5,4506.01,22530.05,14000.2,8529.85,37.86,Existing,Online,21964.87,22530.05,102.57,-60.46
+2025-11-01,November,Q4,2025,North,Jaipur,Kabir Singh,Home & Living,Air Purifier,21,7786.51,163516.71,115346.75,48169.96,29.46,New,Online,146603.35,163516.71,111.54,431.27
+2025-11-01,November,Q4,2025,North,Jaipur,Kabir Singh,Office Supplies,Ink Cartridge,60,1728.79,103727.4,70301.83,33425.57,32.22,Existing,Online,103275.21,103727.4,100.44,112.87
+2025-11-01,November,Q4,2025,South,Hyderabad,Ananya Reddy,Electronics,Smart Watch,18,4935.56,88840.08,59446.19,29393.89,33.09,New,Offline,91059.96,88840.08,97.56,186.37
+2025-11-01,November,Q4,2025,South,Hyderabad,Ananya Reddy,Furniture,Bookshelf,9,4687.0,42183.0,25175.24,17007.76,40.32,New,Online,37390.02,42183.0,112.82,-48.84
+2025-11-01,November,Q4,2025,South,Hyderabad,Ananya Reddy,Home & Living,Water Bottle Set,24,891.33,21391.92,10965.14,10426.78,48.74,Existing,Online,19503.44,21391.92,109.68,-71.55
+2025-11-01,November,Q4,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Printer Paper Box,85,1338.05,113734.25,73103.1,40631.15,35.72,New,Offline,123975.31,113734.25,91.74,112.63
+2025-11-01,November,Q4,2025,South,Chennai,Diya Iyer,Electronics,Smart Watch,12,4936.05,59232.6,37861.24,21371.36,36.08,New,Online,53162.26,59232.6,111.42,124.26
+2025-11-01,November,Q4,2025,South,Chennai,Diya Iyer,Furniture,Bookshelf,7,4646.89,32528.23,20087.41,12440.82,38.25,Existing,Online,29590.61,32528.23,109.93,-20.97
+2025-11-01,November,Q4,2025,South,Chennai,Diya Iyer,Home & Living,LED Desk Lamp,23,1526.51,35109.73,20173.4,14936.33,42.54,Existing,Offline,34878.23,35109.73,100.66,-47.51
+2025-11-01,November,Q4,2025,South,Chennai,Diya Iyer,Office Supplies,Printer Paper Box,71,1321.51,93827.21,59873.37,33953.84,36.19,Existing,Online,84318.45,93827.21,111.28,32.6
+2025-11-01,November,Q4,2025,South,Kochi,Meera Nair,Electronics,Webcam HD,12,1868.43,22421.16,13573.78,8847.38,39.46,New,Online,23557.82,22421.16,95.18,-68.87
+2025-11-01,November,Q4,2025,South,Kochi,Meera Nair,Furniture,Ergonomic Office Chair,8,9020.33,72162.64,48314.04,23848.6,33.05,New,Offline,75941.1,72162.64,95.02,17.44
+2025-11-01,November,Q4,2025,South,Kochi,Meera Nair,Home & Living,Air Purifier,24,7823.21,187757.04,131630.69,56126.35,29.89,New,Offline,171713.98,187757.04,109.34,1338.94
+2025-11-01,November,Q4,2025,South,Kochi,Meera Nair,Office Supplies,Notebook Pack,54,394.55,21305.7,11685.29,9620.41,45.15,New,Online,23219.57,21305.7,91.76,-29.62
+2025-11-01,November,Q4,2025,West,Ahmedabad,Ishaan Patel,Electronics,Webcam HD,14,1929.15,27008.1,16004.16,11003.94,40.74,Existing,Offline,28943.86,27008.1,93.31,3.99
+2025-11-01,November,Q4,2025,West,Ahmedabad,Ishaan Patel,Furniture,Meeting Table,9,12807.41,115266.69,75678.59,39588.1,34.34,Existing,Offline,104459.55,115266.69,110.35,388.41
+2025-11-01,November,Q4,2025,West,Ahmedabad,Ishaan Patel,Home & Living,Air Purifier,18,8094.09,145693.62,96903.26,48790.36,33.49,New,Online,156028.27,145693.62,93.38,167.85
+2025-11-01,November,Q4,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Desk Organizer,82,680.09,55767.38,30463.35,25304.03,45.37,New,Offline,56240.54,55767.38,99.16,60.04
+2025-11-01,November,Q4,2025,West,Pune,Priya Menon,Electronics,Webcam HD,12,1920.75,23049.0,13688.43,9360.57,40.61,Existing,Online,21126.56,23049.0,109.1,-59.29
+2025-11-01,November,Q4,2025,West,Pune,Priya Menon,Furniture,Bookshelf,7,4574.35,32020.45,19938.86,12081.59,37.73,New,Offline,33233.91,32020.45,96.35,13.0
+2025-11-01,November,Q4,2025,West,Pune,Priya Menon,Home & Living,LED Desk Lamp,23,1529.94,35188.62,20421.13,14767.49,41.97,Existing,Offline,34657.79,35188.62,101.53,49.16
+2025-11-01,November,Q4,2025,West,Pune,Priya Menon,Office Supplies,Ink Cartridge,64,1837.5,117600.0,73785.82,43814.18,37.26,Existing,Offline,119537.4,117600.0,98.38,284.28
+2025-11-01,November,Q4,2025,West,Mumbai,Rohan Mehta,Electronics,Wireless Headphones,16,2547.9,40766.4,24018.2,16748.2,41.08,Existing,Online,43629.98,40766.4,93.44,31.42
+2025-11-01,November,Q4,2025,West,Mumbai,Rohan Mehta,Furniture,Meeting Table,7,12713.83,88996.81,63071.86,25924.95,29.13,Existing,Online,86989.92,88996.81,102.31,58.25
+2025-11-01,November,Q4,2025,West,Mumbai,Rohan Mehta,Home & Living,Air Purifier,20,7934.14,158682.8,107264.21,51418.59,32.4,Existing,Online,144506.41,158682.8,109.81,460.88
+2025-11-01,November,Q4,2025,West,Mumbai,Rohan Mehta,Office Supplies,Ink Cartridge,66,1855.87,122487.42,73980.72,48506.7,39.6,Existing,Offline,120930.63,122487.42,101.29,455.68
+2025-12-01,December,Q4,2025,East,Bhubaneswar,Arjun Das,Electronics,Wireless Headphones,17,2488.7,42307.9,24517.31,17790.59,42.05,Existing,Offline,38118.96,42307.9,110.99,43.07
+2025-12-01,December,Q4,2025,East,Bhubaneswar,Arjun Das,Furniture,Bookshelf,8,4748.67,37989.36,22580.53,15408.83,40.56,Existing,Online,39529.06,37989.36,96.1,-39.97
+2025-12-01,December,Q4,2025,East,Bhubaneswar,Arjun Das,Home & Living,LED Desk Lamp,24,1504.61,36110.64,21271.44,14839.2,41.09,Existing,Offline,31903.98,36110.64,113.19,-21.33
+2025-12-01,December,Q4,2025,East,Bhubaneswar,Arjun Das,Office Supplies,Notebook Pack,75,404.09,30306.75,16226.95,14079.8,46.46,New,Online,29878.55,30306.75,101.43,-77.89
+2025-12-01,December,Q4,2025,East,Kolkata,Sana Khan,Electronics,Smart Watch,16,4977.96,79647.36,52605.77,27041.59,33.95,Existing,Offline,71031.72,79647.36,112.13,148.12
+2025-12-01,December,Q4,2025,East,Kolkata,Sana Khan,Furniture,Meeting Table,5,12737.64,63688.2,45230.87,18457.33,28.98,Existing,Offline,60577.0,63688.2,105.14,179.53
+2025-12-01,December,Q4,2025,East,Kolkata,Sana Khan,Home & Living,Water Bottle Set,17,880.62,14970.54,7775.11,7195.43,48.06,Existing,Online,15727.89,14970.54,95.18,-60.41
+2025-12-01,December,Q4,2025,East,Kolkata,Sana Khan,Office Supplies,Desk Organizer,50,705.56,35278.0,17525.7,17752.3,50.32,New,Offline,34872.18,35278.0,101.16,36.76
+2025-12-01,December,Q4,2025,North,Delhi,Aarav Sharma,Electronics,Webcam HD,12,1902.84,22834.08,13286.72,9547.36,41.81,Existing,Online,22734.02,22834.08,100.44,-59.82
+2025-12-01,December,Q4,2025,North,Delhi,Aarav Sharma,Furniture,Study Desk,6,7030.88,42185.28,28181.63,14003.65,33.2,Existing,Online,46121.27,42185.28,91.47,-12.01
+2025-12-01,December,Q4,2025,North,Delhi,Aarav Sharma,Home & Living,LED Desk Lamp,24,1458.45,35002.8,19755.79,15247.01,43.56,Existing,Online,36422.58,35002.8,96.1,-77.64
+2025-12-01,December,Q4,2025,North,Delhi,Aarav Sharma,Office Supplies,Printer Paper Box,66,1259.35,83117.1,53011.16,30105.94,36.22,Existing,Online,91314.62,83117.1,91.02,8.63
+2025-12-01,December,Q4,2025,North,Jaipur,Kabir Singh,Electronics,Wireless Headphones,11,2507.58,27583.38,16315.88,11267.5,40.85,Existing,Online,27098.3,27583.38,101.79,-44.68
+2025-12-01,December,Q4,2025,North,Jaipur,Kabir Singh,Furniture,Study Desk,9,7083.44,63750.96,39347.22,24403.74,38.28,Existing,Offline,60119.83,63750.96,106.04,182.96
+2025-12-01,December,Q4,2025,North,Jaipur,Kabir Singh,Home & Living,Storage Rack,14,2701.9,37826.6,22677.65,15148.95,40.05,Existing,Online,36011.83,37826.6,105.04,-76.87
+2025-12-01,December,Q4,2025,North,Jaipur,Kabir Singh,Office Supplies,Ink Cartridge,67,1830.11,122617.37,80732.35,41885.02,34.16,New,Online,116841.03,122617.37,104.94,18.21
+2025-12-01,December,Q4,2025,South,Hyderabad,Ananya Reddy,Electronics,Webcam HD,13,1824.74,23721.62,15270.47,8451.15,35.63,Existing,Online,24324.17,23721.62,97.52,-73.3
+2025-12-01,December,Q4,2025,South,Hyderabad,Ananya Reddy,Furniture,Ergonomic Office Chair,10,8940.17,89401.7,58362.59,31039.11,34.72,Existing,Offline,94572.66,89401.7,94.53,111.94
+2025-12-01,December,Q4,2025,South,Hyderabad,Ananya Reddy,Home & Living,Air Purifier,26,7837.71,203780.46,144978.62,58801.84,28.86,Existing,Online,194781.35,203780.46,104.62,852.6
+2025-12-01,December,Q4,2025,South,Hyderabad,Ananya Reddy,Office Supplies,Notebook Pack,74,387.76,28694.24,16195.85,12498.39,43.56,Existing,Online,31438.3,28694.24,91.27,-74.77
+2025-12-01,December,Q4,2025,South,Chennai,Diya Iyer,Electronics,Bluetooth Speaker,12,3415.49,40985.88,23855.79,17130.09,41.8,New,Offline,38957.67,40985.88,105.21,-30.81
+2025-12-01,December,Q4,2025,South,Chennai,Diya Iyer,Furniture,Ergonomic Office Chair,6,9078.4,54470.4,37127.62,17342.78,31.84,Existing,Online,51713.73,54470.4,105.33,67.46
+2025-12-01,December,Q4,2025,South,Chennai,Diya Iyer,Home & Living,Water Bottle Set,27,932.65,25181.55,11466.39,13715.16,54.47,Existing,Offline,26666.55,25181.55,94.43,-28.28
+2025-12-01,December,Q4,2025,South,Chennai,Diya Iyer,Office Supplies,Ink Cartridge,57,1782.3,101591.1,69016.84,32574.26,32.06,Existing,Online,95911.4,101591.1,105.92,8.27
+2025-12-01,December,Q4,2025,South,Kochi,Meera Nair,Electronics,Smart Watch,15,5127.73,76915.95,47417.23,29498.72,38.35,Existing,Online,72515.96,76915.95,106.07,243.05
+2025-12-01,December,Q4,2025,South,Kochi,Meera Nair,Furniture,Meeting Table,6,12697.51,76185.06,54712.48,21472.58,28.18,Existing,Offline,78840.68,76185.06,96.63,5.57
+2025-12-01,December,Q4,2025,South,Kochi,Meera Nair,Home & Living,Storage Rack,24,2752.63,66063.12,41185.47,24877.65,37.66,Existing,Online,61565.33,66063.12,107.31,-64.81
+2025-12-01,December,Q4,2025,South,Kochi,Meera Nair,Office Supplies,Printer Paper Box,72,1255.82,90419.04,60793.35,29625.69,32.76,New,Online,83513.14,90419.04,108.27,324.39
+2025-12-01,December,Q4,2025,West,Ahmedabad,Ishaan Patel,Electronics,Webcam HD,12,1836.95,22043.4,13296.93,8746.47,39.68,Existing,Offline,21630.78,22043.4,101.91,-18.38
+2025-12-01,December,Q4,2025,West,Ahmedabad,Ishaan Patel,Furniture,Meeting Table,6,13072.55,78435.3,51587.9,26847.4,34.23,New,Offline,74803.16,78435.3,104.86,-31.95
+2025-12-01,December,Q4,2025,West,Ahmedabad,Ishaan Patel,Home & Living,Water Bottle Set,17,907.47,15426.99,7184.16,8242.83,53.43,Existing,Online,13742.39,15426.99,112.26,-89.41
+2025-12-01,December,Q4,2025,West,Ahmedabad,Ishaan Patel,Office Supplies,Ink Cartridge,60,1840.72,110443.2,67219.76,43223.44,39.14,New,Offline,102986.69,110443.2,107.24,98.04
+2025-12-01,December,Q4,2025,West,Pune,Priya Menon,Electronics,Wireless Headphones,14,2408.53,33719.42,20317.93,13401.49,39.74,New,Online,29860.36,33719.42,112.92,46.29
+2025-12-01,December,Q4,2025,West,Pune,Priya Menon,Furniture,Study Desk,9,6828.46,61456.14,42376.94,19079.2,31.05,Existing,Offline,62313.63,61456.14,98.62,91.93
+2025-12-01,December,Q4,2025,West,Pune,Priya Menon,Home & Living,Storage Rack,18,2788.09,50185.62,30202.53,19983.09,39.82,Existing,Online,51591.37,50185.62,97.28,42.62
+2025-12-01,December,Q4,2025,West,Pune,Priya Menon,Office Supplies,Ink Cartridge,64,1753.91,112250.24,77535.77,34714.47,30.93,New,Offline,105798.32,112250.24,106.1,-4.55
+2025-12-01,December,Q4,2025,West,Mumbai,Rohan Mehta,Electronics,Smart Watch,11,5068.39,55752.29,35237.39,20514.9,36.8,New,Offline,60737.08,55752.29,91.79,36.76
+2025-12-01,December,Q4,2025,West,Mumbai,Rohan Mehta,Furniture,Bookshelf,5,4675.84,23379.2,14961.72,8417.48,36.0,New,Offline,25307.7,23379.2,92.38,-73.73
+2025-12-01,December,Q4,2025,West,Mumbai,Rohan Mehta,Home & Living,Storage Rack,22,2813.14,61889.08,37729.19,24159.89,39.04,Existing,Online,66565.02,61889.08,92.98,-61.0
+2025-12-01,December,Q4,2025,West,Mumbai,Rohan Mehta,Office Supplies,Notebook Pack,61,404.87,24697.07,12975.67,11721.4,47.46,Existing,Offline,25786.38,24697.07,95.78,-79.84
+2026-01-01,January,Q1,2026,East,Bhubaneswar,Arjun Das,Electronics,Webcam HD,13,1856.92,24139.96,15214.81,8925.15,36.97,New,Online,24277.42,24139.96,99.43,-42.94
+2026-01-01,January,Q1,2026,East,Bhubaneswar,Arjun Das,Furniture,Bookshelf,10,4544.31,45443.1,28705.77,16737.33,36.83,New,Online,45984.24,45443.1,98.82,19.62
+2026-01-01,January,Q1,2026,East,Bhubaneswar,Arjun Das,Home & Living,Air Purifier,15,8174.24,122613.6,79876.35,42737.25,34.86,New,Online,124397.83,122613.6,98.57,239.55
+2026-01-01,January,Q1,2026,East,Bhubaneswar,Arjun Das,Office Supplies,Ink Cartridge,69,1749.72,120730.68,77584.05,43146.63,35.74,Existing,Offline,115463.94,120730.68,104.56,298.36
+2026-01-01,January,Q1,2026,East,Kolkata,Sana Khan,Electronics,Bluetooth Speaker,10,3430.8,34308.0,21005.98,13302.02,38.77,New,Online,32739.38,34308.0,104.79,-56.93
+2026-01-01,January,Q1,2026,East,Kolkata,Sana Khan,Furniture,Study Desk,9,6759.11,60831.99,42282.2,18549.79,30.49,Existing,Offline,62255.42,60831.99,97.71,-4.48
+2026-01-01,January,Q1,2026,East,Kolkata,Sana Khan,Home & Living,LED Desk Lamp,21,1523.91,32002.11,18423.37,13578.74,42.43,Existing,Online,28955.48,32002.11,110.52,113.77
+2026-01-01,January,Q1,2026,East,Kolkata,Sana Khan,Office Supplies,Printer Paper Box,49,1323.68,64860.32,38940.88,25919.44,39.96,New,Online,64229.06,64860.32,100.98,83.85
+2026-01-01,January,Q1,2026,North,Delhi,Aarav Sharma,Electronics,Smart Watch,17,4931.96,83843.32,53845.81,29997.51,35.78,New,Online,81039.37,83843.32,103.46,267.19
+2026-01-01,January,Q1,2026,North,Delhi,Aarav Sharma,Furniture,Ergonomic Office Chair,12,8731.82,104781.84,72357.65,32424.19,30.94,Existing,Offline,112352.99,104781.84,93.26,148.38
+2026-01-01,January,Q1,2026,North,Delhi,Aarav Sharma,Home & Living,LED Desk Lamp,32,1475.42,47213.44,26535.56,20677.88,43.8,New,Offline,44663.86,47213.44,105.71,34.88
+2026-01-01,January,Q1,2026,North,Delhi,Aarav Sharma,Office Supplies,Ink Cartridge,97,1830.86,177593.42,115725.91,61867.51,34.84,New,Offline,178198.6,177593.42,99.66,113.67
+2026-01-01,January,Q1,2026,North,Jaipur,Kabir Singh,Electronics,Wireless Headphones,11,2560.54,28165.94,16845.61,11320.33,40.19,Existing,Online,27858.09,28165.94,101.11,2.11
+2026-01-01,January,Q1,2026,North,Jaipur,Kabir Singh,Furniture,Ergonomic Office Chair,6,8719.76,52318.56,35635.32,16683.24,31.89,New,Online,46322.37,52318.56,112.94,-17.93
+2026-01-01,January,Q1,2026,North,Jaipur,Kabir Singh,Home & Living,Water Bottle Set,19,871.3,16554.7,8444.1,8110.6,48.99,Existing,Offline,16250.94,16554.7,101.87,-56.24
+2026-01-01,January,Q1,2026,North,Jaipur,Kabir Singh,Office Supplies,Notebook Pack,82,394.38,32339.16,17030.36,15308.8,47.34,Existing,Offline,33033.43,32339.16,97.9,-73.63
+2026-01-01,January,Q1,2026,South,Hyderabad,Ananya Reddy,Electronics,Smart Watch,20,5171.68,103433.6,65826.28,37607.32,36.36,Existing,Offline,92064.15,103433.6,112.35,336.03
+2026-01-01,January,Q1,2026,South,Hyderabad,Ananya Reddy,Furniture,Ergonomic Office Chair,7,8939.03,62573.21,39661.44,22911.77,36.62,New,Online,63148.39,62573.21,99.09,-30.01
+2026-01-01,January,Q1,2026,South,Hyderabad,Ananya Reddy,Home & Living,Storage Rack,21,2749.87,57747.27,34294.98,23452.29,40.61,Existing,Offline,53970.57,57747.27,107.0,-71.66
+2026-01-01,January,Q1,2026,South,Hyderabad,Ananya Reddy,Office Supplies,Notebook Pack,62,408.28,25313.36,13190.81,12122.55,47.89,Existing,Online,27725.83,25313.36,91.3,-11.78
+2026-01-01,January,Q1,2026,South,Chennai,Diya Iyer,Electronics,Wireless Headphones,13,2541.33,33037.29,20226.55,12810.74,38.78,New,Offline,33324.3,33037.29,99.14,-19.39
+2026-01-01,January,Q1,2026,South,Chennai,Diya Iyer,Furniture,Bookshelf,8,4460.58,35684.64,22269.96,13414.68,37.59,New,Online,31841.78,35684.64,112.07,-34.49
+2026-01-01,January,Q1,2026,South,Chennai,Diya Iyer,Home & Living,Water Bottle Set,17,869.96,14789.32,7307.74,7481.58,50.59,Existing,Offline,13892.47,14789.32,106.46,-41.27
+2026-01-01,January,Q1,2026,South,Chennai,Diya Iyer,Office Supplies,Printer Paper Box,60,1349.11,80946.6,51502.22,29444.38,36.38,Existing,Offline,75732.51,80946.6,106.88,-20.32
+2026-01-01,January,Q1,2026,South,Kochi,Meera Nair,Electronics,Wireless Headphones,15,2509.6,37644.0,22148.61,15495.39,41.16,New,Offline,40333.0,37644.0,93.33,-51.06
+2026-01-01,January,Q1,2026,South,Kochi,Meera Nair,Furniture,Meeting Table,6,12800.11,76800.66,52767.86,24032.8,31.29,New,Offline,82892.54,76800.66,92.65,0.81
+2026-01-01,January,Q1,2026,South,Kochi,Meera Nair,Home & Living,Water Bottle Set,24,932.06,22369.44,10702.86,11666.58,52.15,Existing,Offline,20362.57,22369.44,109.86,-66.14
+2026-01-01,January,Q1,2026,South,Kochi,Meera Nair,Office Supplies,Notebook Pack,60,393.85,23631.0,12354.64,11276.36,47.72,Existing,Offline,25079.56,23631.0,94.22,-73.87
+2026-01-01,January,Q1,2026,West,Ahmedabad,Ishaan Patel,Electronics,Wireless Headphones,12,2505.67,30068.04,17804.6,12263.44,40.79,Existing,Online,30889.83,30068.04,97.34,36.4
+2026-01-01,January,Q1,2026,West,Ahmedabad,Ishaan Patel,Furniture,Study Desk,9,6771.8,60946.2,39575.2,21371.0,35.07,Existing,Online,65481.48,60946.2,93.07,-22.3
+2026-01-01,January,Q1,2026,West,Ahmedabad,Ishaan Patel,Home & Living,Water Bottle Set,23,917.43,21100.89,10167.85,10933.04,51.81,New,Offline,21456.86,21100.89,98.34,36.78
+2026-01-01,January,Q1,2026,West,Ahmedabad,Ishaan Patel,Office Supplies,Notebook Pack,78,394.3,30755.4,16786.9,13968.5,45.42,Existing,Online,27163.12,30755.4,113.22,-72.15
+2026-01-01,January,Q1,2026,West,Pune,Priya Menon,Electronics,Wireless Headphones,16,2470.27,39524.32,24250.89,15273.43,38.64,Existing,Offline,40201.52,39524.32,98.32,17.22
+2026-01-01,January,Q1,2026,West,Pune,Priya Menon,Furniture,Study Desk,9,6912.89,62216.01,41012.86,21203.15,34.08,New,Online,58165.9,62216.01,106.96,1.24
+2026-01-01,January,Q1,2026,West,Pune,Priya Menon,Home & Living,Storage Rack,17,2800.62,47610.54,27999.24,19611.3,41.19,Existing,Online,42152.56,47610.54,112.95,-5.13
+2026-01-01,January,Q1,2026,West,Pune,Priya Menon,Office Supplies,Printer Paper Box,94,1261.07,118540.58,77056.4,41484.18,35.0,New,Offline,125104.7,118540.58,94.75,5.6
+2026-01-01,January,Q1,2026,West,Mumbai,Rohan Mehta,Electronics,Wireless Headphones,11,2595.88,28554.68,16846.85,11707.83,41.0,Existing,Online,31344.2,28554.68,91.1,-48.78
+2026-01-01,January,Q1,2026,West,Mumbai,Rohan Mehta,Furniture,Bookshelf,7,4601.66,32211.62,20834.41,11377.21,35.32,Existing,Online,34888.65,32211.62,92.33,37.78
+2026-01-01,January,Q1,2026,West,Mumbai,Rohan Mehta,Home & Living,LED Desk Lamp,23,1505.41,34624.43,19999.51,14624.92,42.24,Existing,Online,37164.92,34624.43,93.16,-44.05
+2026-01-01,January,Q1,2026,West,Mumbai,Rohan Mehta,Office Supplies,Desk Organizer,55,711.69,39142.95,20547.78,18595.17,47.51,New,Online,42724.23,39142.95,91.62,58.49
+2026-02-01,February,Q1,2026,East,Bhubaneswar,Arjun Das,Electronics,Smart Watch,14,4916.05,68824.7,46249.26,22575.44,32.8,Existing,Online,74792.27,68824.7,92.02,185.11
+2026-02-01,February,Q1,2026,East,Bhubaneswar,Arjun Das,Furniture,Meeting Table,10,13516.54,135165.4,90327.85,44837.55,33.17,Existing,Online,138493.09,135165.4,97.6,197.44
+2026-02-01,February,Q1,2026,East,Bhubaneswar,Arjun Das,Home & Living,LED Desk Lamp,24,1462.9,35109.6,19998.53,15111.07,43.04,Existing,Offline,31495.23,35109.6,111.48,-71.37
+2026-02-01,February,Q1,2026,East,Bhubaneswar,Arjun Das,Office Supplies,Printer Paper Box,92,1299.13,119519.96,73916.44,45603.52,38.16,New,Online,123638.42,119519.96,96.67,-1.0
+2026-02-01,February,Q1,2026,East,Kolkata,Sana Khan,Electronics,Wireless Headphones,17,2435.91,41410.47,26713.84,14696.63,35.49,Existing,Online,37558.6,41410.47,110.26,20.7
+2026-02-01,February,Q1,2026,East,Kolkata,Sana Khan,Furniture,Meeting Table,6,12798.06,76788.36,53691.63,23096.73,30.08,New,Online,78026.36,76788.36,98.41,26.23
+2026-02-01,February,Q1,2026,East,Kolkata,Sana Khan,Home & Living,Water Bottle Set,26,891.93,23190.18,11726.26,11463.92,49.43,Existing,Online,22704.99,23190.18,102.14,-27.54
+2026-02-01,February,Q1,2026,East,Kolkata,Sana Khan,Office Supplies,Ink Cartridge,78,1845.07,143915.46,88950.96,54964.5,38.19,New,Offline,131770.76,143915.46,109.22,121.89
+2026-02-01,February,Q1,2026,North,Delhi,Aarav Sharma,Electronics,Wireless Headphones,19,2572.23,48872.37,29725.93,19146.44,39.18,New,Offline,47162.04,48872.37,103.63,-41.71
+2026-02-01,February,Q1,2026,North,Delhi,Aarav Sharma,Furniture,Study Desk,8,7247.9,57983.2,35983.24,21999.96,37.94,New,Offline,51129.53,57983.2,113.4,-44.66
+2026-02-01,February,Q1,2026,North,Delhi,Aarav Sharma,Home & Living,LED Desk Lamp,27,1447.29,39076.83,23755.5,15321.33,39.21,Existing,Offline,35625.54,39076.83,109.69,-17.23
+2026-02-01,February,Q1,2026,North,Delhi,Aarav Sharma,Office Supplies,Ink Cartridge,64,1833.6,117350.4,77463.78,39886.62,33.99,New,Offline,110809.16,117350.4,105.9,-33.92
+2026-02-01,February,Q1,2026,North,Jaipur,Kabir Singh,Electronics,Smart Watch,17,5098.87,86680.79,55535.62,31145.17,35.93,New,Online,82924.18,86680.79,104.53,207.75
+2026-02-01,February,Q1,2026,North,Jaipur,Kabir Singh,Furniture,Bookshelf,8,4415.95,35327.6,23644.44,11683.16,33.07,New,Offline,32865.23,35327.6,107.49,-32.48
+2026-02-01,February,Q1,2026,North,Jaipur,Kabir Singh,Home & Living,Air Purifier,22,8138.62,179049.64,118999.39,60050.25,33.54,Existing,Offline,183837.31,179049.64,97.4,981.56
+2026-02-01,February,Q1,2026,North,Jaipur,Kabir Singh,Office Supplies,Ink Cartridge,67,1783.46,119491.82,80586.18,38905.64,32.56,Existing,Online,112906.99,119491.82,105.83,269.5
+2026-02-01,February,Q1,2026,South,Hyderabad,Ananya Reddy,Electronics,Wireless Headphones,20,2557.35,51147.0,30018.09,21128.91,41.31,New,Online,47235.68,51147.0,108.28,-50.55
+2026-02-01,February,Q1,2026,South,Hyderabad,Ananya Reddy,Furniture,Ergonomic Office Chair,8,9209.95,73679.6,47944.55,25735.05,34.93,New,Offline,72876.59,73679.6,101.1,17.75
+2026-02-01,February,Q1,2026,South,Hyderabad,Ananya Reddy,Home & Living,Water Bottle Set,25,930.08,23252.0,11118.65,12133.35,52.18,Existing,Offline,22368.75,23252.0,103.95,-59.73
+2026-02-01,February,Q1,2026,South,Hyderabad,Ananya Reddy,Office Supplies,Ink Cartridge,85,1806.53,153555.05,98289.92,55265.13,35.99,Existing,Offline,137215.22,153555.05,111.91,506.62
+2026-02-01,February,Q1,2026,South,Chennai,Diya Iyer,Electronics,Bluetooth Speaker,13,3233.47,42035.11,26797.58,15237.53,36.25,Existing,Online,40907.3,42035.11,102.76,27.24
+2026-02-01,February,Q1,2026,South,Chennai,Diya Iyer,Furniture,Bookshelf,8,4435.05,35480.4,22502.6,12977.8,36.58,Existing,Offline,38432.82,35480.4,92.32,-0.57
+2026-02-01,February,Q1,2026,South,Chennai,Diya Iyer,Home & Living,Air Purifier,31,7734.3,239763.3,172328.51,67434.79,28.13,Existing,Online,230930.74,239763.3,103.82,1521.19
+2026-02-01,February,Q1,2026,South,Chennai,Diya Iyer,Office Supplies,Notebook Pack,88,410.52,36125.76,18310.06,17815.7,49.32,Existing,Online,35019.41,36125.76,103.16,-55.37
+2026-02-01,February,Q1,2026,South,Kochi,Meera Nair,Electronics,Smart Watch,21,5081.89,106719.69,70487.05,36232.64,33.95,Existing,Offline,101621.47,106719.69,105.02,183.5
+2026-02-01,February,Q1,2026,South,Kochi,Meera Nair,Furniture,Meeting Table,10,12658.08,126580.8,87774.44,38806.36,30.66,Existing,Offline,135348.56,126580.8,93.52,64.82
+2026-02-01,February,Q1,2026,South,Kochi,Meera Nair,Home & Living,Water Bottle Set,23,866.54,19930.42,9730.22,10200.2,51.18,New,Offline,18235.86,19930.42,109.29,-10.9
+2026-02-01,February,Q1,2026,South,Kochi,Meera Nair,Office Supplies,Ink Cartridge,60,1799.86,107991.6,69524.09,38467.51,35.62,New,Offline,105728.13,107991.6,102.14,356.99
+2026-02-01,February,Q1,2026,West,Ahmedabad,Ishaan Patel,Electronics,Smart Watch,15,5035.86,75537.9,46747.2,28790.7,38.11,Existing,Online,67822.76,75537.9,111.38,151.22
+2026-02-01,February,Q1,2026,West,Ahmedabad,Ishaan Patel,Furniture,Ergonomic Office Chair,9,8801.2,79210.8,52553.19,26657.61,33.65,Existing,Offline,84597.78,79210.8,93.63,29.97
+2026-02-01,February,Q1,2026,West,Ahmedabad,Ishaan Patel,Home & Living,Air Purifier,26,7997.9,207945.4,145126.62,62818.78,30.21,Existing,Offline,202694.68,207945.4,102.59,885.48
+2026-02-01,February,Q1,2026,West,Ahmedabad,Ishaan Patel,Office Supplies,Notebook Pack,72,410.61,29563.92,15267.99,14295.93,48.36,Existing,Online,27028.76,29563.92,109.38,-3.87
+2026-02-01,February,Q1,2026,West,Pune,Priya Menon,Electronics,Webcam HD,14,1928.55,26999.7,15568.6,11431.1,42.34,Existing,Offline,25640.34,26999.7,105.3,-31.69
+2026-02-01,February,Q1,2026,West,Pune,Priya Menon,Furniture,Bookshelf,11,4517.14,49688.54,31368.26,18320.28,36.87,Existing,Online,44620.24,49688.54,111.36,-20.14
+2026-02-01,February,Q1,2026,West,Pune,Priya Menon,Home & Living,Storage Rack,30,2818.93,84567.9,47795.37,36772.53,43.48,New,Offline,81873.68,84567.9,103.29,77.62
+2026-02-01,February,Q1,2026,West,Pune,Priya Menon,Office Supplies,Notebook Pack,63,403.56,25424.28,12926.76,12497.52,49.16,Existing,Offline,25282.52,25424.28,100.56,-78.55
+2026-02-01,February,Q1,2026,West,Mumbai,Rohan Mehta,Electronics,Webcam HD,16,1860.7,29771.2,17325.69,12445.51,41.8,Existing,Online,32657.12,29771.2,91.16,4.26
+2026-02-01,February,Q1,2026,West,Mumbai,Rohan Mehta,Furniture,Meeting Table,7,13099.08,91693.56,59911.17,31782.39,34.66,New,Online,82446.16,91693.56,111.22,184.66
+2026-02-01,February,Q1,2026,West,Mumbai,Rohan Mehta,Home & Living,Water Bottle Set,29,863.11,25030.19,12289.9,12740.29,50.9,Existing,Offline,22397.78,25030.19,111.75,-27.71
+2026-02-01,February,Q1,2026,West,Mumbai,Rohan Mehta,Office Supplies,Notebook Pack,67,404.72,27116.24,14465.22,12651.02,46.65,Existing,Offline,26107.81,27116.24,103.86,-30.73
+2026-03-01,March,Q1,2026,East,Bhubaneswar,Arjun Das,Electronics,Smart Watch,14,4912.34,68772.76,44717.64,24055.12,34.98,Existing,Online,65567.25,68772.76,104.89,-0.08
+2026-03-01,March,Q1,2026,East,Bhubaneswar,Arjun Das,Furniture,Ergonomic Office Chair,8,8797.34,70378.72,48728.63,21650.09,30.76,Existing,Online,69128.05,70378.72,101.81,-47.93
+2026-03-01,March,Q1,2026,East,Bhubaneswar,Arjun Das,Home & Living,LED Desk Lamp,22,1513.4,33294.8,18738.03,14556.77,43.72,New,Online,35511.72,33294.8,93.76,-5.17
+2026-03-01,March,Q1,2026,East,Bhubaneswar,Arjun Das,Office Supplies,Desk Organizer,96,708.84,68048.64,34246.68,33801.96,49.67,Existing,Online,70211.21,68048.64,96.92,-43.07
+2026-03-01,March,Q1,2026,East,Kolkata,Sana Khan,Electronics,Wireless Headphones,15,2405.25,36078.75,23063.94,13014.81,36.07,New,Online,32064.6,36078.75,112.52,-12.88
+2026-03-01,March,Q1,2026,East,Kolkata,Sana Khan,Furniture,Bookshelf,9,4644.76,41802.84,25722.64,16080.2,38.47,Existing,Online,42796.97,41802.84,97.68,-45.56
+2026-03-01,March,Q1,2026,East,Kolkata,Sana Khan,Home & Living,Water Bottle Set,28,909.98,25479.44,12501.49,12977.95,50.93,Existing,Offline,23762.52,25479.44,107.23,9.87
+2026-03-01,March,Q1,2026,East,Kolkata,Sana Khan,Office Supplies,Notebook Pack,84,404.92,34013.28,16997.81,17015.47,50.03,New,Offline,32153.92,34013.28,105.78,-76.37
+2026-03-01,March,Q1,2026,North,Delhi,Aarav Sharma,Electronics,Smart Watch,15,4811.12,72166.8,49604.4,22562.4,31.26,New,Offline,72858.23,72166.8,99.05,47.66
+2026-03-01,March,Q1,2026,North,Delhi,Aarav Sharma,Furniture,Study Desk,12,6937.04,83244.48,53040.75,30203.73,36.28,New,Online,84845.74,83244.48,98.11,43.57
+2026-03-01,March,Q1,2026,North,Delhi,Aarav Sharma,Home & Living,LED Desk Lamp,34,1464.54,49794.36,30106.61,19687.75,39.54,Existing,Online,49470.01,49794.36,100.66,27.43
+2026-03-01,March,Q1,2026,North,Delhi,Aarav Sharma,Office Supplies,Ink Cartridge,72,1772.76,127638.72,80802.62,46836.1,36.69,Existing,Offline,138260.31,127638.72,92.32,8.77
+2026-03-01,March,Q1,2026,North,Jaipur,Kabir Singh,Electronics,Wireless Headphones,19,2542.39,48305.41,28001.69,20303.72,42.03,New,Online,51968.27,48305.41,92.95,-44.27
+2026-03-01,March,Q1,2026,North,Jaipur,Kabir Singh,Furniture,Ergonomic Office Chair,10,9007.3,90073.0,59033.42,31039.58,34.46,Existing,Online,92841.47,90073.0,97.02,154.96
+2026-03-01,March,Q1,2026,North,Jaipur,Kabir Singh,Home & Living,Water Bottle Set,23,867.24,19946.52,10434.76,9511.76,47.69,Existing,Offline,18905.78,19946.52,105.5,-88.86
+2026-03-01,March,Q1,2026,North,Jaipur,Kabir Singh,Office Supplies,Printer Paper Box,95,1343.46,127628.7,75941.37,51687.33,40.5,Existing,Online,131957.05,127628.7,96.72,6.81
+2026-03-01,March,Q1,2026,South,Hyderabad,Ananya Reddy,Electronics,Webcam HD,18,1895.23,34114.14,20511.71,13602.43,39.87,Existing,Online,31054.15,34114.14,109.85,-33.3
+2026-03-01,March,Q1,2026,South,Hyderabad,Ananya Reddy,Furniture,Meeting Table,8,13310.3,106482.4,72841.25,33641.15,31.59,Existing,Offline,94622.08,106482.4,112.53,44.52
+2026-03-01,March,Q1,2026,South,Hyderabad,Ananya Reddy,Home & Living,Air Purifier,22,8188.29,180142.38,117665.8,62476.58,34.68,New,Offline,175325.49,180142.38,102.75,674.74
+2026-03-01,March,Q1,2026,South,Hyderabad,Ananya Reddy,Office Supplies,Notebook Pack,70,401.35,28094.5,14878.22,13216.28,47.04,Existing,Online,26093.41,28094.5,107.67,-81.7
+2026-03-01,March,Q1,2026,South,Chennai,Diya Iyer,Electronics,Bluetooth Speaker,18,3200.98,57617.64,36685.97,20931.67,36.33,Existing,Offline,58905.4,57617.64,97.81,37.07
+2026-03-01,March,Q1,2026,South,Chennai,Diya Iyer,Furniture,Ergonomic Office Chair,12,8888.02,106656.24,73006.17,33650.07,31.55,Existing,Offline,109505.88,106656.24,97.4,200.61
+2026-03-01,March,Q1,2026,South,Chennai,Diya Iyer,Home & Living,LED Desk Lamp,28,1480.77,41461.56,24887.8,16573.76,39.97,Existing,Online,39560.18,41461.56,104.81,-82.71
+2026-03-01,March,Q1,2026,South,Chennai,Diya Iyer,Office Supplies,Desk Organizer,81,712.3,57696.3,28442.38,29253.92,50.7,Existing,Online,61922.66,57696.3,93.17,59.71
+2026-03-01,March,Q1,2026,South,Kochi,Meera Nair,Electronics,Smart Watch,20,5183.47,103669.4,65360.74,38308.66,36.95,Existing,Online,96704.24,103669.4,107.2,-2.86
+2026-03-01,March,Q1,2026,South,Kochi,Meera Nair,Furniture,Meeting Table,12,12560.42,150725.04,107346.37,43378.67,28.78,New,Offline,134027.21,150725.04,112.46,19.07
+2026-03-01,March,Q1,2026,South,Kochi,Meera Nair,Home & Living,LED Desk Lamp,18,1465.61,26380.98,15135.21,11245.77,42.63,New,Online,24882.77,26380.98,106.02,32.37
+2026-03-01,March,Q1,2026,South,Kochi,Meera Nair,Office Supplies,Printer Paper Box,103,1301.58,134062.74,88134.62,45928.12,34.26,New,Online,125225.19,134062.74,107.06,24.14
+2026-03-01,March,Q1,2026,West,Ahmedabad,Ishaan Patel,Electronics,Smart Watch,15,5110.32,76654.8,47874.02,28780.78,37.55,New,Online,78071.87,76654.8,98.18,1.48
+2026-03-01,March,Q1,2026,West,Ahmedabad,Ishaan Patel,Furniture,Bookshelf,7,4480.61,31364.27,19188.17,12176.1,38.82,Existing,Offline,27874.22,31364.27,112.52,-60.4
+2026-03-01,March,Q1,2026,West,Ahmedabad,Ishaan Patel,Home & Living,Air Purifier,28,7952.81,222678.68,147580.61,75098.07,33.72,Existing,Offline,211193.36,222678.68,105.44,7.09
+2026-03-01,March,Q1,2026,West,Ahmedabad,Ishaan Patel,Office Supplies,Printer Paper Box,86,1306.04,112319.44,68572.24,43747.2,38.95,New,Online,112346.46,112319.44,99.98,279.92
+2026-03-01,March,Q1,2026,West,Pune,Priya Menon,Electronics,Smart Watch,23,4963.93,114170.39,70668.78,43501.61,38.1,New,Online,106203.05,114170.39,107.5,322.86
+2026-03-01,March,Q1,2026,West,Pune,Priya Menon,Furniture,Meeting Table,9,13430.15,120871.35,80191.71,40679.64,33.66,Existing,Online,106308.64,120871.35,113.7,143.26
+2026-03-01,March,Q1,2026,West,Pune,Priya Menon,Home & Living,Air Purifier,23,8270.72,190226.56,124995.09,65231.47,34.29,Existing,Online,199350.38,190226.56,95.42,124.94
+2026-03-01,March,Q1,2026,West,Pune,Priya Menon,Office Supplies,Notebook Pack,67,412.69,27650.23,13829.82,13820.41,49.98,Existing,Online,26836.32,27650.23,103.03,8.76
+2026-03-01,March,Q1,2026,West,Mumbai,Rohan Mehta,Electronics,Smart Watch,16,5016.01,80256.16,52616.99,27639.17,34.44,New,Online,87644.7,80256.16,91.57,169.58
+2026-03-01,March,Q1,2026,West,Mumbai,Rohan Mehta,Furniture,Ergonomic Office Chair,7,8948.62,62640.34,42931.39,19708.95,31.46,Existing,Offline,67793.25,62640.34,92.4,-31.69
+2026-03-01,March,Q1,2026,West,Mumbai,Rohan Mehta,Home & Living,LED Desk Lamp,29,1558.03,45182.87,25337.55,19845.32,43.92,Existing,Offline,41284.97,45182.87,109.44,80.51
+2026-03-01,March,Q1,2026,West,Mumbai,Rohan Mehta,Office Supplies,Notebook Pack,75,393.61,29520.75,16069.86,13450.89,45.56,Existing,Offline,27222.48,29520.75,108.44,8.87
+2026-04-01,April,Q2,2026,East,Bhubaneswar,Arjun Das,Electronics,Smart Watch,20,5006.43,100128.6,63292.54,36836.06,36.79,Existing,Online,92147.93,100128.6,108.66,45.59
+2026-04-01,April,Q2,2026,East,Bhubaneswar,Arjun Das,Furniture,Meeting Table,11,12757.61,140333.71,96949.42,43384.29,30.92,New,Online,124327.72,140333.71,112.87,99.4
+2026-04-01,April,Q2,2026,East,Bhubaneswar,Arjun Das,Home & Living,Air Purifier,27,8189.97,221129.19,150484.49,70644.7,31.95,Existing,Online,215237.08,221129.19,102.74,564.16
+2026-04-01,April,Q2,2026,East,Bhubaneswar,Arjun Das,Office Supplies,Ink Cartridge,101,1854.7,187324.7,116535.8,70788.9,37.79,New,Online,183609.75,187324.7,102.02,175.28
+2026-04-01,April,Q2,2026,East,Kolkata,Sana Khan,Electronics,Bluetooth Speaker,19,3248.76,61726.44,39285.47,22440.97,36.36,Existing,Offline,66598.34,61726.44,92.68,71.09
+2026-04-01,April,Q2,2026,East,Kolkata,Sana Khan,Furniture,Bookshelf,10,4480.58,44805.8,27618.94,17186.86,38.36,Existing,Online,46651.69,44805.8,96.04,7.18
+2026-04-01,April,Q2,2026,East,Kolkata,Sana Khan,Home & Living,Water Bottle Set,28,903.3,25292.4,12166.31,13126.09,51.9,New,Offline,23475.17,25292.4,107.74,-0.73
+2026-04-01,April,Q2,2026,East,Kolkata,Sana Khan,Office Supplies,Notebook Pack,81,401.91,32554.71,17281.51,15273.2,46.92,Existing,Online,30668.17,32554.71,106.15,-4.29
+2026-04-01,April,Q2,2026,North,Delhi,Aarav Sharma,Electronics,Bluetooth Speaker,20,3380.89,67617.8,41960.98,25656.82,37.94,Existing,Offline,61640.62,67617.8,109.7,-6.3
+2026-04-01,April,Q2,2026,North,Delhi,Aarav Sharma,Furniture,Ergonomic Office Chair,12,9273.46,111281.52,71453.59,39827.93,35.79,Existing,Online,100339.56,111281.52,110.9,33.68
+2026-04-01,April,Q2,2026,North,Delhi,Aarav Sharma,Home & Living,Water Bottle Set,26,878.71,22846.46,11874.9,10971.56,48.02,Existing,Online,21992.85,22846.46,103.88,-54.12
+2026-04-01,April,Q2,2026,North,Delhi,Aarav Sharma,Office Supplies,Printer Paper Box,93,1288.18,119800.74,75302.33,44498.41,37.14,Existing,Offline,118730.32,119800.74,100.9,-6.14
+2026-04-01,April,Q2,2026,North,Jaipur,Kabir Singh,Electronics,Bluetooth Speaker,13,3215.64,41803.32,26771.98,15031.34,35.96,New,Offline,43066.42,41803.32,97.07,-13.46
+2026-04-01,April,Q2,2026,North,Jaipur,Kabir Singh,Furniture,Bookshelf,6,4478.46,26870.76,17846.91,9023.85,33.58,Existing,Online,27769.38,26870.76,96.76,-70.17
+2026-04-01,April,Q2,2026,North,Jaipur,Kabir Singh,Home & Living,Water Bottle Set,25,920.32,23008.0,11497.42,11510.58,50.03,Existing,Online,20576.06,23008.0,111.82,15.35
+2026-04-01,April,Q2,2026,North,Jaipur,Kabir Singh,Office Supplies,Desk Organizer,63,675.95,42584.85,23245.06,19339.79,45.41,New,Online,38105.71,42584.85,111.75,-66.63
+2026-04-01,April,Q2,2026,South,Hyderabad,Ananya Reddy,Electronics,Smart Watch,18,5059.71,91074.78,55748.77,35326.01,38.79,Existing,Online,91479.3,91074.78,99.56,166.97
+2026-04-01,April,Q2,2026,South,Hyderabad,Ananya Reddy,Furniture,Study Desk,10,6759.26,67592.6,44091.53,23501.07,34.77,Existing,Offline,59536.53,67592.6,113.53,-36.52
+2026-04-01,April,Q2,2026,South,Hyderabad,Ananya Reddy,Home & Living,Water Bottle Set,31,887.47,27511.57,13315.8,14195.77,51.6,Existing,Offline,28496.86,27511.57,96.54,-84.73
+2026-04-01,April,Q2,2026,South,Hyderabad,Ananya Reddy,Office Supplies,Ink Cartridge,75,1738.65,130398.75,86053.58,44345.17,34.01,New,Online,128568.68,130398.75,101.42,364.14
+2026-04-01,April,Q2,2026,South,Chennai,Diya Iyer,Electronics,Wireless Headphones,22,2564.7,56423.4,32092.39,24331.01,43.12,Existing,Offline,54921.93,56423.4,102.73,-2.07
+2026-04-01,April,Q2,2026,South,Chennai,Diya Iyer,Furniture,Bookshelf,8,4428.29,35426.32,22908.03,12518.29,35.34,Existing,Offline,34580.13,35426.32,102.45,-66.78
+2026-04-01,April,Q2,2026,South,Chennai,Diya Iyer,Home & Living,LED Desk Lamp,32,1464.19,46854.08,26335.09,20518.99,43.79,New,Online,41442.66,46854.08,113.06,13.01
+2026-04-01,April,Q2,2026,South,Chennai,Diya Iyer,Office Supplies,Desk Organizer,71,675.12,47933.52,24964.69,22968.83,47.92,Existing,Online,43074.87,47933.52,111.28,-16.92
+2026-04-01,April,Q2,2026,South,Kochi,Meera Nair,Electronics,Bluetooth Speaker,18,3260.75,58693.5,37550.69,21142.81,36.02,New,Online,59765.4,58693.5,98.21,-43.38
+2026-04-01,April,Q2,2026,South,Kochi,Meera Nair,Furniture,Bookshelf,11,4726.61,51992.71,31164.9,20827.81,40.06,Existing,Offline,55245.87,51992.71,94.11,-65.5
+2026-04-01,April,Q2,2026,South,Kochi,Meera Nair,Home & Living,Air Purifier,26,8286.71,215454.46,141911.68,73542.78,34.13,Existing,Offline,194907.13,215454.46,110.54,716.7
+2026-04-01,April,Q2,2026,South,Kochi,Meera Nair,Office Supplies,Ink Cartridge,70,1796.2,125734.0,79850.61,45883.39,36.49,New,Online,116958.65,125734.0,107.5,-6.21
+2026-04-01,April,Q2,2026,West,Ahmedabad,Ishaan Patel,Electronics,Wireless Headphones,21,2589.65,54382.65,31360.15,23022.5,42.33,Existing,Offline,57416.74,54382.65,94.72,-29.06
+2026-04-01,April,Q2,2026,West,Ahmedabad,Ishaan Patel,Furniture,Study Desk,11,7047.23,77519.53,48049.15,29470.38,38.02,New,Offline,69255.88,77519.53,111.93,147.16
+2026-04-01,April,Q2,2026,West,Ahmedabad,Ishaan Patel,Home & Living,LED Desk Lamp,21,1516.89,31854.69,18058.11,13796.58,43.31,Existing,Online,32736.39,31854.69,97.31,-85.69
+2026-04-01,April,Q2,2026,West,Ahmedabad,Ishaan Patel,Office Supplies,Desk Organizer,81,693.01,56133.81,29691.9,26441.91,47.11,New,Online,55937.05,56133.81,100.35,-50.02
+2026-04-01,April,Q2,2026,West,Pune,Priya Menon,Electronics,Wireless Headphones,22,2403.11,52868.42,33174.05,19694.37,37.25,Existing,Offline,52878.39,52868.42,99.98,-53.69
+2026-04-01,April,Q2,2026,West,Pune,Priya Menon,Furniture,Bookshelf,9,4609.66,41486.94,24701.3,16785.64,40.46,Existing,Online,45232.88,41486.94,91.72,-65.68
+2026-04-01,April,Q2,2026,West,Pune,Priya Menon,Home & Living,Storage Rack,33,2817.11,92964.63,52302.99,40661.64,43.74,New,Online,97071.15,92964.63,95.77,-51.13
+2026-04-01,April,Q2,2026,West,Pune,Priya Menon,Office Supplies,Notebook Pack,74,396.93,29372.82,15499.77,13873.05,47.23,Existing,Online,28824.68,29372.82,101.9,6.23
+2026-04-01,April,Q2,2026,West,Mumbai,Rohan Mehta,Electronics,Smart Watch,18,5084.95,91529.1,55653.38,35875.72,39.2,Existing,Offline,97956.98,91529.1,93.44,14.05
+2026-04-01,April,Q2,2026,West,Mumbai,Rohan Mehta,Furniture,Meeting Table,7,12890.81,90235.67,60193.46,30042.21,33.29,Existing,Online,91209.87,90235.67,98.93,44.05
+2026-04-01,April,Q2,2026,West,Mumbai,Rohan Mehta,Home & Living,LED Desk Lamp,18,1501.62,27029.16,14959.24,12069.92,44.66,New,Online,28691.51,27029.16,94.21,-40.18
+2026-04-01,April,Q2,2026,West,Mumbai,Rohan Mehta,Office Supplies,Printer Paper Box,76,1298.79,98708.04,60714.33,37993.71,38.49,New,Offline,104636.1,98708.04,94.33,234.37
+2026-05-01,May,Q2,2026,East,Bhubaneswar,Arjun Das,Electronics,Bluetooth Speaker,13,3281.04,42653.52,26265.19,16388.33,38.42,Existing,Online,40784.62,42653.52,104.58,-57.4
+2026-05-01,May,Q2,2026,East,Bhubaneswar,Arjun Das,Furniture,Ergonomic Office Chair,7,8761.21,61328.47,42337.6,18990.87,30.97,Existing,Online,59538.77,61328.47,103.01,-56.3
+2026-05-01,May,Q2,2026,East,Bhubaneswar,Arjun Das,Home & Living,Water Bottle Set,20,914.83,18296.6,8908.94,9387.66,51.31,Existing,Online,17256.37,18296.6,106.03,-91.73
+2026-05-01,May,Q2,2026,East,Bhubaneswar,Arjun Das,Office Supplies,Desk Organizer,93,683.63,63577.59,33561.83,30015.76,47.21,Existing,Online,67244.0,63577.59,94.55,-66.06
+2026-05-01,May,Q2,2026,East,Kolkata,Sana Khan,Electronics,Smart Watch,19,4892.74,92962.06,62363.73,30598.33,32.91,Existing,Offline,90297.84,92962.06,102.95,50.6
+2026-05-01,May,Q2,2026,East,Kolkata,Sana Khan,Furniture,Bookshelf,6,4721.27,28327.62,16697.49,11630.13,41.06,Existing,Online,25399.77,28327.62,111.53,-36.78
+2026-05-01,May,Q2,2026,East,Kolkata,Sana Khan,Home & Living,Storage Rack,26,2834.71,73702.46,44963.18,28739.28,38.99,New,Online,70500.52,73702.46,104.54,191.4
+2026-05-01,May,Q2,2026,East,Kolkata,Sana Khan,Office Supplies,Notebook Pack,72,413.43,29766.96,14942.34,14824.62,49.8,Existing,Online,28770.77,29766.96,103.46,-8.56
+2026-05-01,May,Q2,2026,North,Delhi,Aarav Sharma,Electronics,Smart Watch,18,4911.11,88399.98,59754.27,28645.71,32.4,Existing,Online,96668.69,88399.98,91.45,30.73
+2026-05-01,May,Q2,2026,North,Delhi,Aarav Sharma,Furniture,Bookshelf,10,4563.74,45637.4,28736.09,16901.31,37.03,Existing,Offline,40067.81,45637.4,113.9,-58.99
+2026-05-01,May,Q2,2026,North,Delhi,Aarav Sharma,Home & Living,Water Bottle Set,31,915.24,28372.44,13250.78,15121.66,53.3,Existing,Offline,25897.38,28372.44,109.56,24.19
+2026-05-01,May,Q2,2026,North,Delhi,Aarav Sharma,Office Supplies,Printer Paper Box,98,1329.04,130245.92,81163.62,49082.3,37.68,Existing,Offline,116631.74,130245.92,111.67,8.72
+2026-05-01,May,Q2,2026,North,Jaipur,Kabir Singh,Electronics,Webcam HD,19,1900.8,36115.2,21238.77,14876.43,41.19,Existing,Offline,31691.15,36115.2,113.96,-13.61
+2026-05-01,May,Q2,2026,North,Jaipur,Kabir Singh,Furniture,Bookshelf,10,4591.09,45910.9,29429.76,16481.14,35.9,New,Online,45769.38,45910.9,100.31,70.86
+2026-05-01,May,Q2,2026,North,Jaipur,Kabir Singh,Home & Living,Air Purifier,29,8252.8,239331.2,151126.13,88205.07,36.85,New,Offline,228131.71,239331.2,104.91,940.21
+2026-05-01,May,Q2,2026,North,Jaipur,Kabir Singh,Office Supplies,Desk Organizer,54,687.21,37109.34,19887.14,17222.2,46.41,Existing,Offline,39484.57,37109.34,93.98,-12.86
+2026-05-01,May,Q2,2026,South,Hyderabad,Ananya Reddy,Electronics,Bluetooth Speaker,22,3339.99,73479.78,46474.25,27005.53,36.75,Existing,Online,68344.3,73479.78,107.51,-19.32
+2026-05-01,May,Q2,2026,South,Hyderabad,Ananya Reddy,Furniture,Bookshelf,7,4511.93,31583.51,20686.24,10897.27,34.5,New,Offline,31958.72,31583.51,98.83,-53.27
+2026-05-01,May,Q2,2026,South,Hyderabad,Ananya Reddy,Home & Living,LED Desk Lamp,34,1553.71,52826.14,28469.7,24356.44,46.11,Existing,Online,48115.71,52826.14,109.79,92.01
+2026-05-01,May,Q2,2026,South,Hyderabad,Ananya Reddy,Office Supplies,Printer Paper Box,106,1266.45,134243.7,87595.2,46648.5,34.75,New,Online,132001.18,134243.7,101.7,2.95
+2026-05-01,May,Q2,2026,South,Chennai,Diya Iyer,Electronics,Smart Watch,18,4852.6,87346.8,55656.86,31689.94,36.28,New,Offline,84226.83,87346.8,103.7,54.81
+2026-05-01,May,Q2,2026,South,Chennai,Diya Iyer,Furniture,Ergonomic Office Chair,10,9240.81,92408.1,58125.72,34282.38,37.1,New,Offline,97245.98,92408.1,95.03,160.85
+2026-05-01,May,Q2,2026,South,Chennai,Diya Iyer,Home & Living,LED Desk Lamp,26,1461.83,38007.58,21338.57,16669.01,43.86,New,Offline,38312.57,38007.58,99.2,-18.88
+2026-05-01,May,Q2,2026,South,Chennai,Diya Iyer,Office Supplies,Desk Organizer,66,682.51,45045.66,24533.65,20512.01,45.54,Existing,Offline,41603.06,45045.66,108.27,-6.02
+2026-05-01,May,Q2,2026,South,Kochi,Meera Nair,Electronics,Wireless Headphones,18,2412.09,43417.62,26102.06,17315.56,39.88,Existing,Online,42889.55,43417.62,101.23,-26.03
+2026-05-01,May,Q2,2026,South,Kochi,Meera Nair,Furniture,Ergonomic Office Chair,10,9063.28,90632.8,59470.45,31162.35,34.38,Existing,Offline,79545.62,90632.8,113.94,74.32
+2026-05-01,May,Q2,2026,South,Kochi,Meera Nair,Home & Living,Water Bottle Set,22,900.46,19810.12,9988.05,9822.07,49.58,Existing,Online,18821.51,19810.12,105.25,-90.81
+2026-05-01,May,Q2,2026,South,Kochi,Meera Nair,Office Supplies,Printer Paper Box,85,1248.31,106106.35,67700.05,38406.3,36.2,Existing,Offline,100640.31,106106.35,105.43,-15.61
+2026-05-01,May,Q2,2026,West,Ahmedabad,Ishaan Patel,Electronics,Bluetooth Speaker,17,3374.97,57374.49,36133.42,21241.07,37.02,Existing,Online,54524.79,57374.49,105.23,5.5
+2026-05-01,May,Q2,2026,West,Ahmedabad,Ishaan Patel,Furniture,Meeting Table,10,12540.31,125403.1,85098.15,40304.95,32.14,New,Offline,113670.78,125403.1,110.32,61.77
+2026-05-01,May,Q2,2026,West,Ahmedabad,Ishaan Patel,Home & Living,Air Purifier,26,7690.71,199958.46,133848.32,66110.14,33.06,Existing,Online,213025.36,199958.46,93.87,527.72
+2026-05-01,May,Q2,2026,West,Ahmedabad,Ishaan Patel,Office Supplies,Notebook Pack,63,386.29,24336.27,13819.72,10516.55,43.21,Existing,Offline,26276.2,24336.27,92.62,-56.65
+2026-05-01,May,Q2,2026,West,Pune,Priya Menon,Electronics,Wireless Headphones,21,2486.82,52223.22,30751.27,21471.95,41.12,New,Offline,47756.03,52223.22,109.35,-1.22
+2026-05-01,May,Q2,2026,West,Pune,Priya Menon,Furniture,Study Desk,8,7137.08,57096.64,34622.93,22473.71,39.36,Existing,Offline,50914.54,57096.64,112.14,37.63
+2026-05-01,May,Q2,2026,West,Pune,Priya Menon,Home & Living,Water Bottle Set,27,881.52,23801.04,12233.68,11567.36,48.6,New,Online,23165.11,23801.04,102.75,-74.4
+2026-05-01,May,Q2,2026,West,Pune,Priya Menon,Office Supplies,Printer Paper Box,80,1337.97,107037.6,63940.89,43096.71,40.26,New,Offline,113309.25,107037.6,94.47,264.41
+2026-05-01,May,Q2,2026,West,Mumbai,Rohan Mehta,Electronics,Wireless Headphones,14,2421.73,33904.22,21232.67,12671.55,37.37,Existing,Online,29885.89,33904.22,113.45,-62.96
+2026-05-01,May,Q2,2026,West,Mumbai,Rohan Mehta,Furniture,Study Desk,6,7102.32,42613.92,26361.6,16252.32,38.14,Existing,Online,44378.65,42613.92,96.02,-52.77
+2026-05-01,May,Q2,2026,West,Mumbai,Rohan Mehta,Home & Living,Air Purifier,18,8147.67,146658.06,99147.57,47510.49,32.4,New,Online,132163.0,146658.06,110.97,442.59
+2026-05-01,May,Q2,2026,West,Mumbai,Rohan Mehta,Office Supplies,Ink Cartridge,82,1813.85,148735.7,92825.82,55909.88,37.59,New,Offline,162103.72,148735.7,91.75,50.68
+2026-06-01,June,Q2,2026,East,Bhubaneswar,Arjun Das,Electronics,Bluetooth Speaker,15,3236.98,48554.7,30275.34,18279.36,37.65,Existing,Online,45842.74,48554.7,105.92,13.84
+2026-06-01,June,Q2,2026,East,Bhubaneswar,Arjun Das,Furniture,Ergonomic Office Chair,10,8677.22,86772.2,58447.33,28324.87,32.64,New,Online,90751.34,86772.2,95.62,41.49
+2026-06-01,June,Q2,2026,East,Bhubaneswar,Arjun Das,Home & Living,LED Desk Lamp,28,1476.22,41334.16,23841.26,17492.9,42.32,Existing,Online,44037.01,41334.16,93.86,125.91
+2026-06-01,June,Q2,2026,East,Bhubaneswar,Arjun Das,Office Supplies,Notebook Pack,66,398.16,26278.56,13354.2,12924.36,49.18,Existing,Offline,27388.69,26278.56,95.95,-58.67
+2026-06-01,June,Q2,2026,East,Kolkata,Sana Khan,Electronics,Smart Watch,13,5059.67,65775.71,42556.51,23219.2,35.3,Existing,Online,70388.44,65775.71,93.45,-29.24
+2026-06-01,June,Q2,2026,East,Kolkata,Sana Khan,Furniture,Meeting Table,7,13491.15,94438.05,63200.34,31237.71,33.08,Existing,Online,95942.48,94438.05,98.43,233.38
+2026-06-01,June,Q2,2026,East,Kolkata,Sana Khan,Home & Living,Water Bottle Set,17,908.97,15452.49,7786.41,7666.08,49.61,Existing,Offline,15670.12,15452.49,98.61,-79.03
+2026-06-01,June,Q2,2026,East,Kolkata,Sana Khan,Office Supplies,Ink Cartridge,69,1746.62,120516.78,80795.47,39721.31,32.96,Existing,Online,107042.25,120516.78,112.59,304.87
+2026-06-01,June,Q2,2026,North,Delhi,Aarav Sharma,Electronics,Bluetooth Speaker,16,3214.63,51434.08,33299.33,18134.75,35.26,Existing,Online,53973.44,51434.08,95.3,-41.82
+2026-06-01,June,Q2,2026,North,Delhi,Aarav Sharma,Furniture,Study Desk,7,6796.37,47574.59,30911.5,16663.09,35.03,New,Offline,43201.98,47574.59,110.12,4.24
+2026-06-01,June,Q2,2026,North,Delhi,Aarav Sharma,Home & Living,Water Bottle Set,34,865.98,29443.32,14785.3,14658.02,49.78,Existing,Online,28998.1,29443.32,101.54,3.77
+2026-06-01,June,Q2,2026,North,Delhi,Aarav Sharma,Office Supplies,Notebook Pack,107,401.42,42951.94,22718.57,20233.37,47.11,New,Online,43854.88,42951.94,97.94,-67.02
+2026-06-01,June,Q2,2026,North,Jaipur,Kabir Singh,Electronics,Bluetooth Speaker,17,3314.28,56342.76,35727.43,20615.33,36.59,New,Online,51821.82,56342.76,108.72,56.01
+2026-06-01,June,Q2,2026,North,Jaipur,Kabir Singh,Furniture,Bookshelf,8,4531.72,36253.76,23229.95,13023.81,35.92,Existing,Online,34097.76,36253.76,106.32,-21.03
+2026-06-01,June,Q2,2026,North,Jaipur,Kabir Singh,Home & Living,Air Purifier,29,7906.54,229289.66,152782.25,76507.41,33.37,New,Offline,235105.14,229289.66,97.53,-4.2
+2026-06-01,June,Q2,2026,North,Jaipur,Kabir Singh,Office Supplies,Printer Paper Box,54,1261.74,68133.96,43967.8,24166.16,35.47,New,Offline,66569.68,68133.96,102.35,83.6
+2026-06-01,June,Q2,2026,South,Hyderabad,Ananya Reddy,Electronics,Wireless Headphones,18,2553.09,45955.62,25965.81,19989.81,43.5,Existing,Online,48886.44,45955.62,94.0,-37.46
+2026-06-01,June,Q2,2026,South,Hyderabad,Ananya Reddy,Furniture,Meeting Table,8,12892.38,103139.04,69394.61,33744.43,32.72,Existing,Online,98653.55,103139.04,104.55,226.56
+2026-06-01,June,Q2,2026,South,Hyderabad,Ananya Reddy,Home & Living,Storage Rack,20,2857.93,57158.6,32408.44,24750.16,43.3,Existing,Offline,51697.8,57158.6,110.56,8.2
+2026-06-01,June,Q2,2026,South,Hyderabad,Ananya Reddy,Office Supplies,Desk Organizer,67,720.11,48247.37,23420.07,24827.3,51.46,New,Online,49299.18,48247.37,97.87,-64.06
+2026-06-01,June,Q2,2026,South,Chennai,Diya Iyer,Electronics,Smart Watch,13,4994.74,64931.62,42012.87,22918.75,35.3,Existing,Offline,61239.89,64931.62,106.03,-25.66
+2026-06-01,June,Q2,2026,South,Chennai,Diya Iyer,Furniture,Study Desk,9,7088.84,63799.56,40804.49,22995.07,36.04,New,Offline,69321.99,63799.56,92.03,-30.96
+2026-06-01,June,Q2,2026,South,Chennai,Diya Iyer,Home & Living,Air Purifier,33,7784.97,256904.01,179951.67,76952.34,29.95,New,Offline,263739.67,256904.01,97.41,575.93
+2026-06-01,June,Q2,2026,South,Chennai,Diya Iyer,Office Supplies,Ink Cartridge,75,1787.62,134071.5,86767.53,47303.97,35.28,Existing,Online,141904.52,134071.5,94.48,197.63
+2026-06-01,June,Q2,2026,South,Kochi,Meera Nair,Electronics,Wireless Headphones,19,2535.64,48177.16,27364.18,20812.98,43.2,New,Offline,44319.48,48177.16,108.7,10.96
+2026-06-01,June,Q2,2026,South,Kochi,Meera Nair,Furniture,Ergonomic Office Chair,10,9160.34,91603.4,56770.01,34833.39,38.03,Existing,Online,94138.08,91603.4,97.31,1.07
+2026-06-01,June,Q2,2026,South,Kochi,Meera Nair,Home & Living,Air Purifier,20,7873.22,157464.4,111159.2,46305.2,29.41,Existing,Offline,165083.35,157464.4,95.38,694.87
+2026-06-01,June,Q2,2026,South,Kochi,Meera Nair,Office Supplies,Desk Organizer,93,680.01,63240.93,34131.27,29109.66,46.03,New,Online,60665.57,63240.93,104.25,-40.4
+2026-06-01,June,Q2,2026,West,Ahmedabad,Ishaan Patel,Electronics,Bluetooth Speaker,13,3187.91,41442.83,26757.42,14685.41,35.44,Existing,Offline,37488.96,41442.83,110.55,-27.77
+2026-06-01,June,Q2,2026,West,Ahmedabad,Ishaan Patel,Furniture,Meeting Table,11,13499.47,148494.17,97660.07,50834.1,34.23,Existing,Offline,140345.11,148494.17,105.81,18.41
+2026-06-01,June,Q2,2026,West,Ahmedabad,Ishaan Patel,Home & Living,Air Purifier,23,7957.16,183014.68,120141.52,62873.16,34.35,Existing,Offline,163072.05,183014.68,112.23,-8.47
+2026-06-01,June,Q2,2026,West,Ahmedabad,Ishaan Patel,Office Supplies,Notebook Pack,93,390.56,36322.08,19621.92,16700.16,45.98,New,Online,32003.25,36322.08,113.49,49.25
+2026-06-01,June,Q2,2026,West,Pune,Priya Menon,Electronics,Smart Watch,14,5147.01,72058.14,46564.57,25493.57,35.38,Existing,Online,67482.19,72058.14,106.78,37.98
+2026-06-01,June,Q2,2026,West,Pune,Priya Menon,Furniture,Study Desk,7,7232.17,50625.19,31529.27,19095.92,37.72,Existing,Online,46169.52,50625.19,109.65,-11.33
+2026-06-01,June,Q2,2026,West,Pune,Priya Menon,Home & Living,Water Bottle Set,20,910.52,18210.4,8560.69,9649.71,52.99,New,Online,16388.55,18210.4,111.12,-23.49
+2026-06-01,June,Q2,2026,West,Pune,Priya Menon,Office Supplies,Desk Organizer,68,719.96,48957.28,24103.82,24853.46,50.77,New,Online,50228.74,48957.28,97.47,-54.26
+2026-06-01,June,Q2,2026,West,Mumbai,Rohan Mehta,Electronics,Wireless Headphones,18,2407.14,43328.52,27124.44,16204.08,37.4,Existing,Online,39369.72,43328.52,110.06,27.8
+2026-06-01,June,Q2,2026,West,Mumbai,Rohan Mehta,Furniture,Bookshelf,9,4771.97,42947.73,25684.05,17263.68,40.2,Existing,Online,38732.7,42947.73,110.88,0.78
+2026-06-01,June,Q2,2026,West,Mumbai,Rohan Mehta,Home & Living,Water Bottle Set,21,934.68,19628.28,8959.56,10668.72,54.35,Existing,Online,19175.75,19628.28,102.36,-86.62
+2026-06-01,June,Q2,2026,West,Mumbai,Rohan Mehta,Office Supplies,Ink Cartridge,68,1838.7,125031.6,76520.61,48510.99,38.8,Existing,Online,113089.45,125031.6,110.56,-15.94

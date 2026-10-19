@@ -1,0 +1,14 @@
+{
+  "name": "Sales Corporate Blue and Green",
+  "dataColors": [
+    "#2878B5",
+    "#24866A",
+    "#D97706",
+    "#C65353",
+    "#64748B",
+    "#6B8EAD"
+  ],
+  "background": "#F3F6FA",
+  "foreground": "#17365D",
+  "tableAccent": "#2878B5"
+}
